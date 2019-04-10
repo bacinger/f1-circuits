@@ -6,27 +6,27 @@ Formula 1 circuits data in TopoJSON format.
 
 | Location | F1 Circuit | Lat | Lon | Zoom |
 |:---|:---|---:|---:|:---:|
-| Abu Dhabi | Yas Marina Circuit | 24.47 | 54.60 | 14 |
-| Austin | Circuit of the Americas | 30.13 | -97.63 | 14 |
-| Bahrain | Bahrain International Circuit | 26.03 | 50.51 | 14 |
-| Baku | Baku City Circuit | 40.37 | 49.84 | 14 |
-| Barcelona | Circuit de Barcelona-Catalunya | 41.57 | 2.26 | 14 |
-| Hockenheim | Hockenheimring | 49.33 | 8.57 | 14 |
-| Le Castelle | Circuit Paul Ricard - Le Castelle | 43.25 | 5.79 | 14 |
-| Melbourne | Melbourne (Albert Park) Circuit | -37.85 | 144.97 | 14 |
-| Mexico Cit | Autódromo Hermanos Rodríguez | 19.40 | -99.09 | 14 |
-| Monte Carlo | Circuit de Monaco | 43.74 | 7.43 | 14 |
-| Montreal | Circuit Gilles Villeneuve | 45.50 | -73.53 | 14 |
-| Monza | Autodromo di Monza | 45.62 | 9.29 | 14 |
-| Pest | Hungaroring | 47.58 | 19.25 | 14 |
-| Sao Paulo | Autódromo José Carlos Pace | -23.70 | -46.70 | 14 |
-| Shanghai | Shanghai International Circuit | 31.34 | 121.22 | 14 |
-| Silverstone | Silverstone Circuit | 52.07 | -1.02 | 14 |
-| Singapore | Marina Bay Street Circuit | 1.29 | 103.86 | 14 |
-| Sochi | Sochi Autodrom | 43.41 | 39.96 | 14 |
-| Spa Francorchamps | Circuit de Spa-Francorchamps | 50.44 | 5.97 | 14 |
-| Spielberg | Red Bull Ring | 47.22 | 14.76 | 14 |
-| Suzuka | Suzuka Circuit | 34.85 | 136.53 | 14 |
+| Abu Dhabi | Yas Marina Circuit | 24.471 | 54.601 | 14 |
+| Austin | Circuit of the Americas | 30.135 | -97.633 | 14 |
+| Bahrain | Bahrain International Circuit | 26.031 | 50.512 | 14 |
+| Baku | Baku City Circuit | 40.369 | 49.842 | 14 |
+| Barcelona | Circuit de Barcelona-Catalunya | 41.569 | 2.259 | 14 |
+| Hockenheim | Hockenheimring | 49.330 | 8.572 | 14 |
+| Le Castelle | Circuit Paul Ricard | 43.253 | 5.791 | 14 |
+| Melbourne | Melbourne Grand Prix Circuit | -37.846 | 144.970 | 14 |
+| Mexico City | Autódromo Hermanos Rodríguez | 19.402 | -99.091 | 15 |
+| Monte Carlo | Circuit de Monaco | 43.737 | 7.429 | 14 |
+| Montreal | Circuit Gilles-Villeneuve | 45.506 | -73.525 | 14 |
+| Monza | Autodromo Nazionale Monza | 45.621 | 9.290 | 13 |
+| Pest | Hungaroring | 47.583 | 19.250 | 14 |
+| Sao Paulo | Autódromo José Carlos Pace | -23.702 | -46.698 | 14 |
+| Shanghai | Shanghai International Circuit | 31.340 | 121.221 | 14 |
+| Silverstone | Silverstone Circuit | 52.072 | -1.017 | 14 |
+| Singapore | Marina Bay Street Circuit | 1.291 | 103.859 | 15 |
+| Sochi | Sochi Autodrom | 43.407 | 39.960 | 14 |
+| Spa Francorchamps | Circuit de Spa-Francorchamps | 50.436 | 5.971 | 13 |
+| Spielberg | Red Bull Ring | 47.223 | 14.761 | 14 |
+| Suzuka | Suzuka International Racing Course | 34.844 | 136.534 | 14 |
 
 ## Acknowledges
 
