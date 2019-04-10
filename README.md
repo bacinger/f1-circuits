@@ -34,5 +34,4 @@ Formula 1 circuits data in TopoJSON format.
 
 ## License
 
-[The MIT License (MIT)](LICENSE)\\
-Copyright (c) 2019 Tomislav Bacinger
+[The MIT License (MIT)](LICENSE) - Copyright (c) 2019 Tomislav Bacinger
