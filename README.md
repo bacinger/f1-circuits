@@ -5,13 +5,13 @@ Formula 1 circuits data in TopoJSON format.
 ## List of F1 circuits
 
 | Location | F1 Circuit | Lat | Lon | Zoom |
-|:---:|:---:|---:|---:|:---:|
+|:---|:---|---:|---:|:---:|
 | Abu Dhabi | Yas Marina Circuit | 24.47 | 54.60 | 14 |
 | Austin | Circuit of the Americas | 30.13 | -97.63 | 14 |
 | Bahrain | Bahrain International Circuit | 26.03 | 50.51 | 14 |
 | Baku B| aku City Circuit | 40.37 | 49.84 | 14 |
 | Barcelona | Circuit de Barcelona-Catalunya | 41.57 | 2.26 | 14 |
-| Hockenheim | Hockenheimring | 49.33 | 8.57 1| 4 |
+| Hockenheim | Hockenheimring | 49.33 | 8.57 | 14 |
 | Le Castelle | Circuit Paul Ricard - Le Castelle | 43.25 | 5.79 | 14 |
 | Melbourne | Melbourne (Albert Park) Circuit | -37.85 | 144.97 | 14 |
 | Mexico Cit | Autódromo Hermanos Rodríguez | 19.40 | -99.09 | 14 |
