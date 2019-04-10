@@ -1,10 +1,11 @@
-# f1-circuits
+# Formula 1 circuits
 
-Formula 1 circuits data.
+Formula 1 circuits data in TopoJSON format.
 
 ## List of F1 circuits
 
 | Location | F1 Circuit | Lat | Lon | Zoom |
+|:---:|:---:|---:|---:|:---:|
 | Abu Dhabi | Yas Marina Circuit | 24.47 | 54.60 | 14 |
 | Austin | Circuit of the Americas | 30.13 | -97.63 | 14 |
 | Bahrain | Bahrain International Circuit | 26.03 | 50.51 | 14 |
