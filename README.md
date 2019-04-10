@@ -9,7 +9,7 @@ Formula 1 circuits data in TopoJSON format.
 | Abu Dhabi | Yas Marina Circuit | 24.47 | 54.60 | 14 |
 | Austin | Circuit of the Americas | 30.13 | -97.63 | 14 |
 | Bahrain | Bahrain International Circuit | 26.03 | 50.51 | 14 |
-| Baku B| aku City Circuit | 40.37 | 49.84 | 14 |
+| Baku | Baku City Circuit | 40.37 | 49.84 | 14 |
 | Barcelona | Circuit de Barcelona-Catalunya | 41.57 | 2.26 | 14 |
 | Hockenheim | Hockenheimring | 49.33 | 8.57 | 14 |
 | Le Castelle | Circuit Paul Ricard - Le Castelle | 43.25 | 5.79 | 14 |
@@ -34,5 +34,5 @@ Formula 1 circuits data in TopoJSON format.
 
 ## License
 
-[The MIT License (MIT)](LICENSE)
+[The MIT License (MIT)](LICENSE)\\
 Copyright (c) 2019 Tomislav Bacinger
