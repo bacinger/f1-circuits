@@ -2,9 +2,9 @@
 
 Formula 1™ circuits data in TopoJSON format.
 
-## List of F1 circuits
+## List of F1™ circuits
 
-| Location | F1 Circuit | Lat | Lon | Zoom |
+| Location | Name | Lat | Lon | Zoom |
 |:---|:---|---:|---:|:---:|
 | Abu Dhabi | Yas Marina Circuit | 24.471 | 54.601 | 14 |
 | Austin | Circuit of the Americas | 30.135 | -97.633 | 14 |
@@ -30,7 +30,7 @@ Formula 1™ circuits data in TopoJSON format.
 
 ## Acknowledges
 
-* [Original circuits data source](https://www.google.com/maps/d/u/0/viewer?mid=1nv6ugq4H67CSzKUauW92-pPstYw&ll=-37.84579005412956%2C144.96881158570557&z=16)
+* [Initial circuits data source](https://www.google.com/maps/d/u/0/viewer?mid=1nv6ugq4H67CSzKUauW92-pPstYw&ll=-37.84579005412956%2C144.96881158570557&z=16)
 
 ## Disclaimer
 
