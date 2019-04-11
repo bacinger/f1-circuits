@@ -1,6 +1,6 @@
-# Formula 1 circuits
+# Formula 1™ circuits
 
-Formula 1 circuits data in TopoJSON format.
+Formula 1™ circuits data in TopoJSON format.
 
 ## List of F1 circuits
 
@@ -31,6 +31,12 @@ Formula 1 circuits data in TopoJSON format.
 ## Acknowledges
 
 * [Original circuits data source](https://www.google.com/maps/d/u/0/viewer?mid=1nv6ugq4H67CSzKUauW92-pPstYw&ll=-37.84579005412956%2C144.96881158570557&z=16)
+
+## Disclaimer
+
+This repository is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V. 
+
+Formula 1™ circuits data are not official, and they are not approved nor endorsed by Formula One Licensing B.V.
 
 ## License
 
