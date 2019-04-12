@@ -1,8 +1,7 @@
 # Formula 1™ circuits
 
-Formula 1™ circuits data in TopoJSON format.
-
-## List of F1™ circuits
+* [Formula 1™ circuits data in TopoJSON format](f1-circuits.json)
+* [List of F1™ circuits](f1-locations.json):
 
 | Location | Name | Lat | Lon | Zoom |
 |:---|:---|---:|---:|:---:|
