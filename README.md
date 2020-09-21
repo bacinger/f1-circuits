@@ -1,8 +1,8 @@
 # Formula 1™ circuits
 
-* [Formula 1™ circuits data in TopoJSON format](f1-circuits.json)
-* [List of F1™ circuits in GeoJSON format](f1-locations.geojson)
-* [List of F1™ circuits in JSON format](f1-locations.json):
+* [Formula 1™ circuits tracks data in TopoJSON format](f1-circuits.json)
+* [Points of F1™ circuits in GeoJSON format](f1-locations.geojson)
+* [Points of F1™ circuits in JSON format](f1-locations.json):
 
 | Location | Name | Opened | Length | Lat | Lon | Zoom |
 |:---|:---|:---:|---:|---:|---:|:---:|

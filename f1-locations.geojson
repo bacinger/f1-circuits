@@ -236,7 +236,7 @@
                 "location": "Shanghai",
                 "opened": "2004",
                 "length": "5451m",
-                "lat": "",
+                "lat": "31.340",
                 "lon": "121.221",
                 "zoom": "14"
             }            
@@ -332,7 +332,7 @@
                 "location": "Suzuka",
                 "opened": "1962",
                 "length": "5807m",
-                "lat": "",
+                "lat": "34.844",
                 "lon": "136.534",
                 "zoom": "14"
             }            
