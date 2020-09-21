@@ -1,0 +1,344 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [54.601, 24.471]
+            },
+            "properties": {
+                "name": "Yas Marina Circuit",
+                "location": "Abu Dhabi",
+                "opened": "2009",
+                "length": "5554m",
+                "lat": "24.471",
+                "lon": "54.601",
+                "zoom": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.633, 30.135]
+            },
+            "properties": {
+                "name": "Circuit of the Americas",
+                "location": "Austin",
+                "opened": "2012",
+                "length": "5513m",
+                "lat": "30.135",
+                "lon": "-97.633",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.512, 26.031]
+            },
+            "properties": {
+                "name": "Bahrain International Circuit",
+                "location": "Bahrain",
+                "opened": "2002",
+                "length": "5412m",
+                "lat": "26.031",
+                "lon": "50.512",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.842, 40.369]
+            },
+            "properties": {
+                "name": "Baku City Circuit",
+                "location": "Baku",
+                "opened": "2016",
+                "length": "6003m",
+                "lat": "40.369",
+                "lon": "49.842",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.259, 41.569]
+            },
+            "properties": {
+                "name": "Circuit de Barcelona-Catalunya",
+                "location": "Barcelona",
+                "opened": "1991",
+                "length": "4655m",
+                "lat": "41.569",
+                "lon": "2.259",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.572, 49.330]
+            },
+            "properties": {
+                "name": "Hockenheimring",
+                "location": "Hockenheim",
+                "opened": "1932",
+                "length": "4574m",
+                "lat": "49.330",
+                "lon": "8.572",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.791, 43.253]
+            },
+            "properties": {
+                "name": "Circuit Paul Ricard",
+                "location": "Le Castelle",
+                "opened": "1969",
+                "length": "5842m",
+                "lat": "43.253",
+                "lon": "5.791",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144.970, -37.846]
+            },
+            "properties": {
+                "name": "Albert Park Circuit",
+                "location": "Melbourne",
+                "opened": "1953",
+                "length": "5027m",
+                "lat": "-37.846",
+                "lon": "144.970",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-99.091, 19.402]
+            },
+            "properties": {
+                "name": "Autódromo Hermanos Rodríguez",
+                "location": "Mexico City",
+                "opened": "1962",
+                "length": "4304m",
+                "lat": "19.402",
+                "lon": "-99.091",
+                "zoom": "15"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.429, 43.737]
+            },
+            "properties": {
+                "name": "Circuit de Monaco",
+                "location": "Monte Carlo",
+                "opened": "1929",
+                "length": "3337m",
+                "lat": "43.737",
+                "lon": "7.429",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.525, 45.506]
+            },
+            "properties": {
+                "name": "Circuit Gilles-Villeneuve",
+                "location": "Montreal",
+                "opened": "1978",
+                "length": "4361m",
+                "lat": "45.506",
+                "lon": "-73.525",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.290, 45.621]
+            },
+            "properties": {
+                "name": "Autodromo Nazionale Monza",
+                "location": "Monza",
+                "opened": "1922",
+                "length": "5793m",
+                "lat": "45.621",
+                "lon": "9.290",
+                "zoom": "13"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.250, 47.583]
+            },
+            "properties": {
+                "name": "Hungaroring",
+                "location": "Pest",
+                "opened": "1986",
+                "length": "4381m",
+                "lat": "47.583",
+                "lon": "19.250",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.698, -23.702]
+            },
+            "properties": {
+                "name": "Autódromo José Carlos Pace",
+                "location": "Sao Paulo",
+                "opened": "1940",
+                "length": "4309m",
+                "lat": "-23.702",
+                "lon": "-46.698",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121.221, 31.340]
+            },
+            "properties": {
+                "name": "Shanghai International Circuit",
+                "location": "Shanghai",
+                "opened": "2004",
+                "length": "5451m",
+                "lat": "",
+                "lon": "121.221",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.017, 52.072]
+            },
+            "properties": {
+                "name": "Silverstone Circuit",
+                "location": "Silverstone",
+                "opened": "1948",
+                "length": "5891m",
+                "lat": "52.072",
+                "lon": "-1.017",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103.859, 1.291 ]
+            },
+            "properties": {
+                "name": "Marina Bay Street Circuit",
+                "location": "Singapore",
+                "opened": "2008",
+                "length": "5063m",
+                "lat": "1.291",
+                "lon": "103.859",
+                "zoom": "15"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [39.960, 43.407]
+            },
+            "properties": {
+                "name": "Sochi Autodrom",
+                "location": "Sochi",
+                "opened": "2014",
+                "length": "5848m",
+                "lat": "43.407",
+                "lon": "39.960",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.971, 50.436]
+            },
+            "properties": {
+                "name": "Circuit de Spa-Francorchamps",
+                "location": "Spa Francorchamps",
+                "opened": "1925",
+                "length": "7004m",
+                "lat": "50.436",
+                "lon": "5.971",
+                "zoom": "13"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.761, 47.223]
+            },
+            "properties": {
+                "name": "Red Bull Ring",
+                "location": "Spielberg",
+                "opened": "1969",
+                "length": "4318m",
+                "lat": "47.223",
+                "lon": "14.761",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.534, 34.844]
+            },
+            "properties": {
+                "name": "Suzuka International Racing Course",
+                "location": "Suzuka",
+                "opened": "1962",
+                "length": "5807m",
+                "lat": "",
+                "lon": "136.534",
+                "zoom": "14"
+            }            
+        }
+    ]
+}
+
+
+

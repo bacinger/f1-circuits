@@ -5,7 +5,7 @@
 * [List of F1™ circuits in JSON format](f1-locations.json):
 
 | Location | Name | Opened | Length | Lat | Lon | Zoom |
-|:---|:---|:---|---:|---:|---:|:---:|
+|:---|:---|:---:|---:|---:|---:|:---:|
 | Abu Dhabi | Yas Marina Circuit | 2009 | 5554m | 24.471 | 54.601 | 14 |
 | Austin | Circuit of the Americas | 2012 | 5513m | 30.135 | -97.633 | 14 |
 | Bahrain | Bahrain International Circuit | 2002 | 5412m | 26.031 | 50.512 | 14 |
