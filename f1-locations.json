@@ -5,7 +5,7 @@
 {"lat": 41.569, "lon": 2.259, "zoom": 14, "location": "Barcelona", "name": "Circuit de Barcelona-Catalunya"},
 {"lat": 49.330, "lon": 8.572, "zoom": 14, "location": "Hockenheim", "name": "Hockenheimring"},
 {"lat": 43.253, "lon": 5.791, "zoom": 14, "location": "Le Castellet", "name": "Circuit Paul Ricard"},
-{"lat": -37.846, "lon": 144.970, "zoom": 14, "location": "Melbourne", "name": "Melbourne Grand Prix Circuit"},
+{"lat": -37.846, "lon": 144.970, "zoom": 14, "location": "Melbourne", "name": "Albert Park Circuit"},
 {"lat": 19.402, "lon": -99.091, "zoom": 15, "location": "Mexico City", "name": "Autódromo Hermanos Rodríguez"},
 {"lat": 43.737, "lon": 7.429, "zoom": 14, "location": "Monte Carlo", "name": "Circuit de Monaco"},
 {"lat": 45.506, "lon": -73.525, "zoom": 14, "location": "Montreal", "name": "Circuit Gilles-Villeneuve"},
