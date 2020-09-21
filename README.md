@@ -39,4 +39,4 @@ Formula 1™ circuits data are not official, and they are not approved nor endor
 
 ## License
 
-[The MIT License (MIT)](LICENSE) - Copyright (c) 2019 Tomislav Bacinger
+[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2020 Tomislav Bacinger
