@@ -1,8 +1,8 @@
 # Formula 1™ circuits
 
-* [Formula 1™ circuits tracks data in TopoJSON format](f1-circuits.json)
+* [Formula 1™ circuit tracks data in TopoJSON format](f1-circuits.json)
 * [Points of F1™ circuits in GeoJSON format](f1-locations.geojson)
-* [Points of F1™ circuits in JSON format](f1-locations.json):
+* [List of F1™ circuits in JSON format](f1-locations.json):
 
 | Location | Name | Opened | Length | Lat | Lon | Zoom |
 |:---|:---|:---:|---:|---:|---:|:---:|
@@ -34,7 +34,7 @@
 
 ## Disclaimer
 
-This repository is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V. 
+This repository is unofficial and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, and related marks are trademarks of Formula One Licensing B.V. 
 
 Formula 1™ circuits data are not official, and they are not approved nor endorsed by Formula One Licensing B.V.
 
