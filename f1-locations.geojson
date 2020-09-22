@@ -8,6 +8,7 @@
                 "coordinates": [54.601, 24.471]
             },
             "properties": {
+                "id": "ae-2009",
                 "name": "Yas Marina Circuit",
                 "location": "Abu Dhabi",
                 "opened": "2009",
@@ -24,6 +25,7 @@
                 "coordinates": [-97.633, 30.135]
             },
             "properties": {
+                "id": "us-2012",
                 "name": "Circuit of the Americas",
                 "location": "Austin",
                 "opened": "2012",
@@ -40,6 +42,7 @@
                 "coordinates": [50.512, 26.031]
             },
             "properties": {
+                "id": "bh-2002",
                 "name": "Bahrain International Circuit",
                 "location": "Bahrain",
                 "opened": "2002",
@@ -56,6 +59,7 @@
                 "coordinates": [49.842, 40.369]
             },
             "properties": {
+                "id": "az-2016",
                 "name": "Baku City Circuit",
                 "location": "Baku",
                 "opened": "2016",
@@ -72,6 +76,7 @@
                 "coordinates": [2.259, 41.569]
             },
             "properties": {
+                "id": "es-1991",
                 "name": "Circuit de Barcelona-Catalunya",
                 "location": "Barcelona",
                 "opened": "1991",
@@ -88,6 +93,7 @@
                 "coordinates": [8.572, 49.330]
             },
             "properties": {
+                "id": "de-1932",
                 "name": "Hockenheimring",
                 "location": "Hockenheim",
                 "opened": "1932",
@@ -104,6 +110,7 @@
                 "coordinates": [5.791, 43.253]
             },
             "properties": {
+                "id": "fr-1969",
                 "name": "Circuit Paul Ricard",
                 "location": "Le Castelle",
                 "opened": "1969",
@@ -120,6 +127,7 @@
                 "coordinates": [144.970, -37.846]
             },
             "properties": {
+                "id": "au-1953",
                 "name": "Albert Park Circuit",
                 "location": "Melbourne",
                 "opened": "1953",
@@ -136,6 +144,7 @@
                 "coordinates": [-99.091, 19.402]
             },
             "properties": {
+                "id": "mx-1962",
                 "name": "Autódromo Hermanos Rodríguez",
                 "location": "Mexico City",
                 "opened": "1962",
@@ -152,6 +161,7 @@
                 "coordinates": [7.429, 43.737]
             },
             "properties": {
+                "id": "mc-1929",
                 "name": "Circuit de Monaco",
                 "location": "Monte Carlo",
                 "opened": "1929",
@@ -168,6 +178,7 @@
                 "coordinates": [-73.525, 45.506]
             },
             "properties": {
+                "id": "ca-1978",
                 "name": "Circuit Gilles-Villeneuve",
                 "location": "Montreal",
                 "opened": "1978",
@@ -184,6 +195,7 @@
                 "coordinates": [9.290, 45.621]
             },
             "properties": {
+                "id": "it-1922",
                 "name": "Autodromo Nazionale Monza",
                 "location": "Monza",
                 "opened": "1922",
@@ -200,6 +212,7 @@
                 "coordinates": [19.250, 47.583]
             },
             "properties": {
+                "id": "hu-1986",
                 "name": "Hungaroring",
                 "location": "Pest",
                 "opened": "1986",
@@ -216,6 +229,7 @@
                 "coordinates": [-46.698, -23.702]
             },
             "properties": {
+                "id": "br-1940",
                 "name": "Autódromo José Carlos Pace",
                 "location": "Sao Paulo",
                 "opened": "1940",
@@ -232,6 +246,7 @@
                 "coordinates": [121.221, 31.340]
             },
             "properties": {
+                "id": "cn-2004",
                 "name": "Shanghai International Circuit",
                 "location": "Shanghai",
                 "opened": "2004",
@@ -248,6 +263,7 @@
                 "coordinates": [-1.017, 52.072]
             },
             "properties": {
+                "id": "gb-1948",
                 "name": "Silverstone Circuit",
                 "location": "Silverstone",
                 "opened": "1948",
@@ -264,6 +280,7 @@
                 "coordinates": [103.859, 1.291 ]
             },
             "properties": {
+                "id": "sg-2008",
                 "name": "Marina Bay Street Circuit",
                 "location": "Singapore",
                 "opened": "2008",
@@ -280,6 +297,7 @@
                 "coordinates": [39.960, 43.407]
             },
             "properties": {
+                "id": "ru-2014",
                 "name": "Sochi Autodrom",
                 "location": "Sochi",
                 "opened": "2014",
@@ -296,6 +314,7 @@
                 "coordinates": [5.971, 50.436]
             },
             "properties": {
+                "id": "be-1925",
                 "name": "Circuit de Spa-Francorchamps",
                 "location": "Spa Francorchamps",
                 "opened": "1925",
@@ -312,6 +331,7 @@
                 "coordinates": [14.761, 47.223]
             },
             "properties": {
+                "id": "at-1969",
                 "name": "Red Bull Ring",
                 "location": "Spielberg",
                 "opened": "1969",
@@ -328,6 +348,7 @@
                 "coordinates": [136.534, 34.844]
             },
             "properties": {
+                "id": "jp-1962",
                 "name": "Suzuka International Racing Course",
                 "location": "Suzuka",
                 "opened": "1962",
