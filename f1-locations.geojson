@@ -1,5 +1,6 @@
 {
     "type": "FeatureCollection",
+    "name": "f1-locations",
     "features": [
         {
             "type": "Feature",
