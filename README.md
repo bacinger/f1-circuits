@@ -1,8 +1,11 @@
 # Formula 1™ circuits
 
-* [Formula 1™ circuit tracks data in TopoJSON format](f1-circuits.json)
+A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
+
+* [Formula 1™ circuit tracks data in one GeoJSON file](f1-circuits.geojson)
+* [Interactive Map of Formula 1™ circuit tracks](https://svemir.co/f1/)
 * [Points of F1™ circuits in GeoJSON format](f1-locations.geojson)
-* [List of F1™ circuits in JSON format](f1-locations.json):
+* [List of F1™ circuits in JSON format](f1-locations.json)
 
 | Location | Name | Opened | Length | Lon | Lat |
 |:---|:---|:---:|---:|---:|---:|
@@ -28,7 +31,11 @@
 | Spielberg | Red Bull Ring | 1969 | 4318m | 14.761 | 47.223 |
 | Suzuka | Suzuka International Racing Course | 1962 | 5807m | 136.534 | 34.844 |
 
-## Acknowledges
+## Summary
+
+Total 21 out of [72 circuits that have hosted a Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+
+## Acknowledgment
 
 * [Initial circuits data source](https://www.google.com/maps/d/u/0/viewer?mid=1nv6ugq4H67CSzKUauW92-pPstYw&ll=-37.84579005412956%2C144.96881158570557&z=16)
 
