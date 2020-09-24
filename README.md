@@ -9,8 +9,8 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 | Location | Name | Opened | Length | Lon | Lat |
 |:---|:---|:---:|---:|---:|---:|
-| Abu Dhabi | Yas Marina Circuit | 2009 | 5554m | 54.601 | 24.471 |
-| Austin | Circuit of the Americas | 2012 | 5513m | -97.633 | 30.135 |
+| Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 5554m | 54.601 | 24.471 |
+| Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 5513m | -97.633 | 30.135 |
 | Bahrain | Bahrain International Circuit | 2002 | 5412m | 50.512 | 26.031 |
 | Baku | Baku City Circuit | 2016 | 6003m | 49.842 | 40.369 |
 | Barcelona | Circuit de Barcelona-Catalunya | 1991 | 4655m | 2.259 | 41.569 |
