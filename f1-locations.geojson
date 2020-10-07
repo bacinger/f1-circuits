@@ -200,6 +200,7 @@
                 "name": "Autodromo Nazionale Monza",
                 "location": "Monza",
                 "opened": "1922",
+                "firstgp": 1950,
                 "length": "5793m",
                 "lon": "9.290",
                 "lat": "45.621",
