@@ -83,6 +83,7 @@
                 "name": "Circuit de Barcelona-Catalunya",
                 "location": "Barcelona",
                 "opened": "1991",
+                "firstgp": "1991",
                 "length": "4655m",
                 "lon": "2.259",
                 "lat": "41.569",
