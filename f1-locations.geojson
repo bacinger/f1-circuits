@@ -326,6 +326,7 @@
                 "name": "Circuit de Spa-Francorchamps",
                 "location": "Spa Francorchamps",
                 "opened": "1925",
+                "firstgp": "1950",
                 "length": "7004m",
                 "lon": "5.971",
                 "lat": "50.436",
