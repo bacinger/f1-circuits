@@ -31,6 +31,7 @@
                 "name": "Circuit of the Americas",
                 "location": "Austin",
                 "opened": "2012",
+                "firstgp": "2012",
                 "length": "5513m",
                 "lon": "-97.633",
                 "lat": "30.135",
