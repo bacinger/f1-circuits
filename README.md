@@ -21,7 +21,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Monte Carlo | Circuit de Monaco | 1929 |  | 3337m | 7.429 | 43.737 |
 | Montreal | Circuit Gilles-Villeneuve | 1978 |  | 4361m | -73.525 | 45.506 |
 | Monza | Autodromo Nazionale Monza | 1922 | 1950 | 5793m | 9.290 | 45.621 |
-| Pest | Hungaroring | 1986 |  | 4381m | 19.250 | 47.583 |
+| Pest | Hungaroring | 1986 | 1986 | 4381m | 19.250 | 47.583 |
 | Sao Paulo | Autódromo José Carlos Pace | 1940 |  | 4309m | -46.698 | -23.702 |
 | Shanghai | Shanghai International Circuit | 2004 |  | 5451m | 121.221 | 31.340 |
 | Silverstone | Silverstone Circuit | 1948 |  | 5891m | 52.072 | -1.017 |

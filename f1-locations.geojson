@@ -221,6 +221,7 @@
                 "name": "Hungaroring",
                 "location": "Pest",
                 "opened": "1986",
+                "firstgp": "1986",
                 "length": "4381m",
                 "lon": "19.250",
                 "lat": "47.583",
