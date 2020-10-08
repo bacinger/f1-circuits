@@ -273,6 +273,7 @@
                 "name": "Silverstone Circuit",
                 "location": "Silverstone",
                 "opened": "1948",
+                "firstgp": "1950",
                 "length": "5891m",
                 "lon": "-1.017",
                 "lat": "52.072",

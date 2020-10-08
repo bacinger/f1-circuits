@@ -24,7 +24,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Pest | Hungaroring | 1986 | 1986 | 4381m | 19.250 | 47.583 |
 | Sao Paulo | Autódromo José Carlos Pace | 1940 |  | 4309m | -46.698 | -23.702 |
 | Shanghai | Shanghai International Circuit | 2004 |  | 5451m | 121.221 | 31.340 |
-| Silverstone | Silverstone Circuit | 1948 |  | 5891m | 52.072 | -1.017 |
+| Silverstone | Silverstone Circuit | 1948 | 1950 | 5891m | 52.072 | -1.017 |
 | Singapore | Marina Bay Street Circuit | 2008 |  | 5063m |103.859 | 1.291 | 
 | Sochi | Sochi Autodrom | 2014 | 2014 | 5848m | 39.960 | 43.407 |
 | Spa Francorchamps | Circuit de Spa-Francorchamps | 1925 |  | 7004m | 5.971 | 50.436 |
