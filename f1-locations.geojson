@@ -265,6 +265,7 @@
                 "name": "Shanghai International Circuit",
                 "location": "Shanghai",
                 "opened": "2004",
+                "firstgp": "2004",
                 "length": "5451m",
                 "lon": "121.221",
                 "lat": "31.340",
