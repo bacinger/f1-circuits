@@ -301,6 +301,7 @@
                 "name": "Marina Bay Street Circuit",
                 "location": "Singapore",
                 "opened": "2008",
+                "firstgp": "2008",
                 "length": "5063m",
                 "lon": "103.859",
                 "lat": "1.291",
