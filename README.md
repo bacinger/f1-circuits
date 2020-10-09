@@ -29,7 +29,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Sochi | Sochi Autodrom | 2014 | 2014 | 5848m | 39.960 | 43.407 |
 | Spa Francorchamps | Circuit de Spa-Francorchamps | 1925 | 1950 | 7004m | 5.971 | 50.436 |
 | Spielberg | Red Bull Ring | 1969 | 1970 | 4318m | 14.761 | 47.223 |
-| Suzuka | Suzuka International Racing Course | 1962 |  | 5807m | 136.534 | 34.844 |
+| Suzuka | Suzuka International Racing Course | 1962 | 1987 | 5807m | 136.534 | 34.844 |
 
 ## Summary
 
