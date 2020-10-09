@@ -19,10 +19,10 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Melbourne | Albert Park Circuit | 1953 | 1996 | 5027m | 144.970 | -37.846 |
 | Mexico City | Autódromo Hermanos Rodríguez | 1962 | 1963 | 4304m | -99.091 | 19.402 |
 | Monte Carlo | Circuit de Monaco | 1929 | 1929 | 3337m | 7.429 | 43.737 |
-| Montreal | Circuit Gilles-Villeneuve | 1978 |  | 4361m | -73.525 | 45.506 |
+| Montreal | Circuit Gilles-Villeneuve | 1978 | 1978 | 4361m | -73.525 | 45.506 |
 | Monza | Autodromo Nazionale Monza | 1922 | 1950 | 5793m | 9.290 | 45.621 |
 | Pest | Hungaroring | 1986 | 1986 | 4381m | 19.250 | 47.583 |
-| Sao Paulo | Autódromo José Carlos Pace | 1940 |  | 4309m | -46.698 | -23.702 |
+| Sao Paulo | Autódromo José Carlos Pace | 1940 | 1972 | 4309m | -46.698 | -23.702 |
 | Shanghai | Shanghai International Circuit | 2004 |  | 5451m | 121.221 | 31.340 |
 | Silverstone | Silverstone Circuit | 1948 | 1950 | 5891m | 52.072 | -1.017 |
 | Singapore | Marina Bay Street Circuit | 2008 |  | 5063m |103.859 | 1.291 | 
