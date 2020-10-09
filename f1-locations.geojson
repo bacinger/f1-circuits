@@ -193,6 +193,7 @@
                 "name": "Circuit Gilles-Villeneuve",
                 "location": "Montreal",
                 "opened": "1978",
+                "firstgp": "1978",
                 "length": "4361m",
                 "lon": "-73.525",
                 "lat": "45.506",
