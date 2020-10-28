@@ -114,6 +114,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [11.713, 44.341]
+            },
+            "properties": {
+                "id": "it-1953",
+                "name": "Autodromo Enzo e Dino Ferrari",
+                "location": "Imola",
+                "opened": "1953",
+                "firstgp": "1980",
+                "length": "4909m",
+                "lon": "11.713",
+                "lat": "44.341",
+                "zoom": "15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [5.791, 43.253]
             },
             "properties": {
@@ -240,6 +258,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [-8.628, 37.232]
+            },
+            "properties": {
+                "id": "pt-2008",
+                "name": "Autódromo Internacional do Algarve",
+                "location": "Portimão",
+                "opened": "2008",
+                "firstgp": "2020",
+                "length": "4653m",
+                "lon": "-8.628",
+                "lat": "37.232",
+                "zoom": "15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-46.698, -23.702]
             },
             "properties": {
@@ -253,6 +289,24 @@
                 "lat": "-23.702",
                 "zoom": "15"
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.372, 43.998]
+            },
+            "properties": {
+                "id": "it-1914",
+                "name": "Autodromo Internazionale del Mugello",
+                "location": "Scarperia e San Piero",
+                "opened": "1914",
+                "firstgp": "2020",
+                "length": "5245m",
+                "lon": "11.372",
+                "lat": "43.998",
+                "zoom": "15"
+            }
         },
         {
             "type": "Feature",
@@ -379,6 +433,24 @@
                 "lat": "34.844",
                 "zoom": "15"
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.412, 40.958]
+            },
+            "properties": {
+                "id": "tr-2005",
+                "name": "Intercity Istanbul Park",
+                "location": "Tuzla",
+                "opened": "2005",
+                "firstgp": "2005",
+                "length": "5338m",
+                "lon": "29.412",
+                "lat": "40.958",
+                "zoom": "15"
+            }
         }
     ]
 }
