@@ -240,6 +240,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [6.943, 50.334]
+            },
+            "properties": {
+                "id": "de-1927",
+                "name": "Nürburgring",
+                "location": "Nürburg",
+                "opened": "1927",
+                "firstgp": "1984",
+                "length": "5148m",
+                "lon": "6.943",
+                "lat": "50.334",
+                "zoom": "14"
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [19.250, 47.583]
             },
             "properties": {
