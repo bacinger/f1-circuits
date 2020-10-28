@@ -1,0 +1,16 @@
+[
+    {"lon": 14.761, "lat": 47.223, "zoom": 15, "location": "Spielberg", "name": "Red Bull Ring", "id": "at-1969"},
+    {"lon": 19.250, "lat": 47.583, "zoom": 14, "location": "Pest", "name": "Hungaroring", "id": "hu-1986"},
+    {"lon": -1.017, "lat": 52.072, "zoom": 14, "location": "Silverstone", "name": "Silverstone Circuit", "id": "gb-1948"},
+    {"lon": 2.259, "lat": 41.569, "zoom": 14, "location": "Barcelona", "name": "Circuit de Barcelona-Catalunya", "id": "es-1991"},
+    {"lon": 5.971, "lat": 50.436, "zoom": 13, "location": "Spa Francorchamps", "name": "Circuit de Spa-Francorchamps", "id": "be-1925"},
+    {"lon": 9.290, "lat": 45.621, "zoom": 13, "location": "Monza", "name": "Autodromo Nazionale Monza", "id": "it-1922"},
+    {"lon": 11.372, "lat": 43.998, "zoom": 15, "location": "Scarperia e San Piero", "name": "Autodromo Internazionale del Mugello", "id": "it-1914"},
+    {"lon": 39.960, "lat": 43.407, "zoom": 14, "location": "Sochi", "name": "Sochi Autodrom", "id": "ru-2014"},
+    {"lon": 6.943, "lat": 50.334, "zoom": 14, "location": "Nürburg", "name": "Nürburgring", "id": "de-1927"},
+    {"lon": -8.628, "lat": 37.232, "zoom": 15, "location": "Portimão", "name": "Autódromo Internacional do Algarve", "id": "pt-2008"},
+    {"lon": 11.713, "lat": 44.341, "zoom": 15, "location": "Imola", "name": "Autodromo Enzo e Dino Ferrari", "id": "it-1953"},
+    {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Tuzla", "name": "Intercity Istanbul Park", "id": "tr-2005"},
+    {"lon": 50.512, "lat": 26.031, "zoom": 15, "location": "Bahrain", "name": "Bahrain International Circuit", "id": "bh-2002"},
+    {"lon": 54.601, "lat": 24.471, "zoom": 14, "location": "Abu Dhabi", "name": "Yas Marina Circuit", "id": "ae-2009"}
+]
