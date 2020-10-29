@@ -17,7 +17,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 8.572 | 49.330 |
 | Imola | Autodromo Enzo e Dino Ferrari | 1953 | 1980 | 4909m | 11.713 | 44.341 |
 | Le Castelle | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 5.791 | 43.253 |
-| Melbourne | Albert Park Circuit | 1953 | 1996 | 5027m | 144.970 | -37.846 |
+| Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 144.970 | -37.846 |
 | Mexico City | Autódromo Hermanos Rodríguez | 1962 | 1963 | 4304m | -99.091 | 19.402 |
 | Monte Carlo | Circuit de Monaco | 1929 | 1929 | 3337m | 7.429 | 43.737 |
 | Montreal | Circuit Gilles-Villeneuve | 1978 | 1978 | 4361m | -73.525 | 45.506 |
