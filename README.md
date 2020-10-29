@@ -21,7 +21,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | -99.091 | 19.402 |
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 7.429 | 43.737 |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m | -73.525 | 45.506 |
-| Monza | Autodromo Nazionale Monza | 1922 | 1950 | 5793m | 9.290 | 45.621 |
+| Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 9.290 | 45.621 |
 | Nürburg | Nürburgring | 1927 | 1984 | 5148m | 6.943 | 50.334 |
 | Pest | Hungaroring | 1986 | 1986 | 4381m | 19.250 | 47.583 |
 | Portimão | Autódromo Internacional do Algarve | 2008 | 2020 | 4653m | -8.628 | 37.232 |
