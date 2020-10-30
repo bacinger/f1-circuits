@@ -28,7 +28,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | -46.698 | -23.702 |
 | Scarperia e San Piero | Autodromo Internazionale del Mugello | 1914 | 2020 | 5245m | 11.372 | 43.998 |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m | 121.221 | 31.340 |
-| Silverstone | Silverstone Circuit | 1948 | 1950 | 5891m | 52.072 | -1.017 |
+| Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | 1948 | 1950 | 5891m | 52.072 | -1.017 |
 | Singapore | Marina Bay Street Circuit | 2008 | 2008 | 5063m |103.859 | 1.291 | 
 | Sochi | Sochi Autodrom | 2014 | 2014 | 5848m | 39.960 | 43.407 |
 | Spa Francorchamps | Circuit de Spa-Francorchamps | 1925 | 1950 | 7004m | 5.971 | 50.436 |
