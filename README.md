@@ -33,7 +33,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Sochi | [Sochi Autodrom](circuits/ru-2014.geojson) | 2014 | 2014 | 5848m | 39.960 | 43.407 |
 | Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | 1925 | 1950 | 7004m | 5.971 | 50.436 |
 | Spielberg | [Red Bull Ring](circuits/at-1969.geojosn) | 1969 | 1970 | 4318m | 14.761 | 47.223 |
-| Suzuka | Suzuka International Racing Course | 1962 | 1987 | 5807m | 136.534 | 34.844 |
+| Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | 1962 | 1987 | 5807m | 136.534 | 34.844 |
 | Tuzla | Intercity Istanbul Park | 2005 | 2005 | 5338m | 29.412 | 40.958 |
 
 ## Summary
