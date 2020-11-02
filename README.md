@@ -30,7 +30,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m | 121.221 | 31.340 |
 | Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | 1948 | 1950 | 5891m | 52.072 | -1.017 |
 | Singapore | [Marina Bay Street Circuit](circuits/sg-2008.geojson) | 2008 | 2008 | 5063m |103.859 | 1.291 | 
-| Sochi | Sochi Autodrom | 2014 | 2014 | 5848m | 39.960 | 43.407 |
+| Sochi | [Sochi Autodrom](circuits/ru-2014.geojson) | 2014 | 2014 | 5848m | 39.960 | 43.407 |
 | Spa Francorchamps | Circuit de Spa-Francorchamps | 1925 | 1950 | 7004m | 5.971 | 50.436 |
 | Spielberg | Red Bull Ring | 1969 | 1970 | 4318m | 14.761 | 47.223 |
 | Suzuka | Suzuka International Racing Course | 1962 | 1987 | 5807m | 136.534 | 34.844 |
