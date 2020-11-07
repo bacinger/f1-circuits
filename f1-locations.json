@@ -17,6 +17,7 @@
 {"lon": -46.698, "lat": -23.702, "zoom": 15, "location": "Sao Paulo", "name": "Autódromo José Carlos Pace", "id": "br-1940"},
 {"lon": 11.372, "lat": 43.998, "zoom": 15, "location": "Scarperia e San Piero", "name": "Autodromo Internazionale del Mugello", "id": "it-1914"},
 {"lon": 121.221, "lat": 31.340, "zoom": 14, "location": "Shanghai", "name": "Shanghai International Circuit", "id": "cn-2004"},
+{"lon": 101.738, "lat": 2.761, "zoom": 14, "location": "Sepang", "name": "Sepang International Circuit", "id": "my-1999"},
 {"lon": -1.017, "lat": 52.072, "zoom": 14, "location": "Silverstone", "name": "Silverstone Circuit", "id": "gb-1948"},
 {"lon": 103.859, "lat": 1.291, "zoom": 15, "location": "Singapore", "name": "Marina Bay Street Circuit", "id": "sg-2008"},
 {"lon": 39.960, "lat": 43.407, "zoom": 14, "location": "Sochi", "name": "Sochi Autodrom", "id": "ru-2014"},
