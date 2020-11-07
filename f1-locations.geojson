@@ -12,11 +12,12 @@
                 "id": "ae-2009",
                 "name": "Yas Marina Circuit",
                 "location": "Abu Dhabi",
-                "opened": "2009",
-                "firstgp": "2009",
-                "length": "5554m",
-                "lon": "54.601",
-                "lat": "24.471"
+                "opened": 2009,
+                "firstgp": 2009,
+                "length": 5554,
+                "lon": 54.601,
+                "lat": 24.471,
+                "alt": 9
             }
         },
         {
@@ -29,11 +30,12 @@
                 "id": "us-2012",
                 "name": "Circuit of the Americas",
                 "location": "Austin",
-                "opened": "2012",
-                "firstgp": "2012",
-                "length": "5513m",
-                "lon": "-97.633",
-                "lat": "30.135"
+                "opened": 2012,
+                "firstgp": 2012,
+                "length": 5513,
+                "lon": -97.633,
+                "lat": 30.135,
+                "alt": 130
             }            
         },
         {
@@ -46,11 +48,12 @@
                 "id": "bh-2002",
                 "name": "Bahrain International Circuit",
                 "location": "Bahrain",
-                "opened": "2002",
-                "firstgp": "2004",
-                "length": "5412m",
-                "lon": "50.512",
-                "lat": "26.031"
+                "opened": 2002,
+                "firstgp": 2004,
+                "length": 5412,
+                "lon": 50.512,
+                "lat": 26.031,
+                "alt": -16
             }            
         },
         {
@@ -63,11 +66,12 @@
                 "id": "az-2016",
                 "name": "Baku City Circuit",
                 "location": "Baku",
-                "opened": "2016",
-                "firstgp": "2016",
-                "length": "6003m",
-                "lon": "49.842",
-                "lat": "40.369"
+                "opened": 2016,
+                "firstgp": 2016,
+                "length": 6003,
+                "lon": 49.842,
+                "lat": 40.369,
+                "alt": -25
             }            
         },
         {
@@ -80,11 +84,12 @@
                 "id": "es-1991",
                 "name": "Circuit de Barcelona-Catalunya",
                 "location": "Barcelona",
-                "opened": "1991",
-                "firstgp": "1991",
-                "length": "4655m",
-                "lon": "2.259",
-                "lat": "41.569"
+                "opened": 1991,
+                "firstgp": 1991,
+                "length": 4655,
+                "lon": 2.259,
+                "lat": 41.569,
+                "alt": 165
             }            
         },
         {
@@ -97,11 +102,12 @@
                 "id": "de-1932",
                 "name": "Hockenheimring",
                 "location": "Hockenheim",
-                "opened": "1932",
-                "firstgp": "1970",
-                "length": "4574m",
-                "lon": "8.572",
-                "lat": "49.330"
+                "opened": 1932,
+                "firstgp": 1970,
+                "length": 4574,
+                "lon": 8.572,
+                "lat": 49.330,
+                "alt": 148
             }            
         },
         {
@@ -114,11 +120,12 @@
                 "id": "it-1953",
                 "name": "Autodromo Enzo e Dino Ferrari",
                 "location": "Imola",
-                "opened": "1953",
-                "firstgp": "1980",
-                "length": "4909m",
-                "lon": "11.713",
-                "lat": "44.341"
+                "opened": 1953,
+                "firstgp": 1980,
+                "length": 4909,
+                "lon": 11.713,
+                "lat": 44.341,
+                "alt": 47
             }
         },
         {
@@ -131,11 +138,12 @@
                 "id": "fr-1969",
                 "name": "Circuit Paul Ricard",
                 "location": "Le Castelle",
-                "opened": "1969",
-                "firstgp": "1971",
-                "length": "5842m",
-                "lon": "5.791",
-                "lat": "43.253"
+                "opened": 1969,
+                "firstgp": 1971,
+                "length": 5842,
+                "lon": 5.791,
+                "lat": 43.253,
+                "alt": 408
             }            
         },
         {
@@ -148,11 +156,12 @@
                 "id": "au-1953",
                 "name": "Albert Park Circuit",
                 "location": "Melbourne",
-                "opened": "1953",
-                "firstgp": "1996",
-                "length": "5027m",
-                "lon": "144.970",
-                "lat": "-37.846"
+                "opened": 1953,
+                "firstgp": 1996,
+                "length": 5027,
+                "lon": 144.970,
+                "lat": -37.846,
+                "alt": 10
             }            
         },
         {
@@ -165,11 +174,12 @@
                 "id": "mx-1962",
                 "name": "Autódromo Hermanos Rodríguez",
                 "location": "Mexico City",
-                "opened": "1962",
-                "firstgp": "1963",
-                "length": "4304m",
-                "lon": "-99.091",
-                "lat": "19.402"
+                "opened": 1962,
+                "firstgp": 1963,
+                "length": 4304,
+                "lon": -99.091,
+                "lat": 19.402,
+                "alt": 2232
             }            
         },
         {
@@ -182,11 +192,12 @@
                 "id": "mc-1929",
                 "name": "Circuit de Monaco",
                 "location": "Monte Carlo",
-                "opened": "1929",
-                "firstgp": "1929",
-                "length": "3337m",
-                "lon": "7.429",
-                "lat": "43.737"
+                "opened": 1929,
+                "firstgp": 1929,
+                "length": 3337,
+                "lon": 7.429,
+                "lat": 43.737,
+                "alt": 47
             }            
         },
         {
@@ -199,11 +210,12 @@
                 "id": "ca-1978",
                 "name": "Circuit Gilles-Villeneuve",
                 "location": "Montreal",
-                "opened": "1978",
-                "firstgp": "1978",
-                "length": "4361m",
-                "lon": "-73.525",
-                "lat": "45.506"
+                "opened": 1978,
+                "firstgp": 1978,
+                "length": 4361,
+                "lon": -73.525,
+                "lat": 45.506,
+                "alt": 13
             }            
         },
         {
@@ -216,11 +228,12 @@
                 "id": "it-1922",
                 "name": "Autodromo Nazionale Monza",
                 "location": "Monza",
-                "opened": "1922",
-                "firstgp": "1950",
-                "length": "5793m",
-                "lon": "9.290",
-                "lat": "45.621"
+                "opened": 1922,
+                "firstgp": 1950,
+                "length": 5793,
+                "lon": 9.290,
+                "lat": 45.621,
+                "alt": 142
             }            
         },
         {
@@ -233,11 +246,12 @@
                 "id": "de-1927",
                 "name": "Nürburgring",
                 "location": "Nürburg",
-                "opened": "1927",
-                "firstgp": "1984",
-                "length": "5148m",
-                "lon": "6.943",
-                "lat": "50.334"
+                "opened": 1927,
+                "firstgp": 1984,
+                "length": 5148,
+                "lon": 6.943,
+                "lat": 50.334,
+                "alt": 627
             }            
         },
         {
@@ -250,11 +264,12 @@
                 "id": "hu-1986",
                 "name": "Hungaroring",
                 "location": "Pest",
-                "opened": "1986",
-                "firstgp": "1986",
-                "length": "4381m",
-                "lon": "19.250",
-                "lat": "47.583"
+                "opened": 1986,
+                "firstgp": 1986,
+                "length": 4381,
+                "lon": 19.250,
+                "lat": 47.583,
+                "alt": 239
             }            
         },
         {
@@ -267,11 +282,12 @@
                 "id": "pt-2008",
                 "name": "Autódromo Internacional do Algarve",
                 "location": "Portimão",
-                "opened": "2008",
-                "firstgp": "2020",
-                "length": "4653m",
-                "lon": "-8.628",
-                "lat": "37.232"
+                "opened": 2008,
+                "firstgp": 2020,
+                "length": 4653,
+                "lon": -8.628,
+                "lat": 37.232,
+                "alt": 44
             }
         },
         {
@@ -284,11 +300,12 @@
                 "id": "br-1940",
                 "name": "Autódromo José Carlos Pace",
                 "location": "Sao Paulo",
-                "opened": "1940",
-                "firstgp": "1972",
-                "length": "4309m",
-                "lon": "-46.698",
-                "lat": "-23.702"
+                "opened": 1940,
+                "firstgp": 1972,
+                "length": 4309,
+                "lon": -46.698,
+                "lat": -23.702,
+                "alt": 765
             }            
         },
         {
@@ -301,11 +318,30 @@
                 "id": "it-1914",
                 "name": "Autodromo Internazionale del Mugello",
                 "location": "Scarperia e San Piero",
-                "opened": "1914",
-                "firstgp": "2020",
-                "length": "5245m",
-                "lon": "11.372",
-                "lat": "43.998"
+                "opened": 1914,
+                "firstgp": 2020,
+                "length": 5245,
+                "lon": 11.372,
+                "lat": 43.998,
+                "alt": 292
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.738, 2.761]
+            },
+            "properties": {
+                "id": "my-1999",
+                "name": "Sepang International Circuit",
+                "location": "Sepang",
+                "opened": 1999,
+                "firstgp": 1999,
+                "length": 5543,
+                "lon": 101.738,
+                "lat": 2.761,
+                "alt": 39
             }
         },
         {
@@ -318,11 +354,12 @@
                 "id": "cn-2004",
                 "name": "Shanghai International Circuit",
                 "location": "Shanghai",
-                "opened": "2004",
-                "firstgp": "2004",
-                "length": "5451m",
-                "lon": "121.221",
-                "lat": "31.340"
+                "opened": 2004,
+                "firstgp": 2004,
+                "length": 5451,
+                "lon": 121.221,
+                "lat": 31.340,
+                "alt": 14
             }            
         },
         {
@@ -335,11 +372,12 @@
                 "id": "gb-1948",
                 "name": "Silverstone Circuit",
                 "location": "Silverstone",
-                "opened": "1948",
-                "firstgp": "1950",
-                "length": "5891m",
-                "lon": "-1.017",
-                "lat": "52.072"
+                "opened": 1948,
+                "firstgp": 1950,
+                "length": 5891,
+                "lon": -1.017,
+                "lat": 52.072,
+                "alt": 196
             }            
         },
         {
@@ -352,11 +390,12 @@
                 "id": "sg-2008",
                 "name": "Marina Bay Street Circuit",
                 "location": "Singapore",
-                "opened": "2008",
-                "firstgp": "2008",
-                "length": "5063m",
-                "lon": "103.859",
-                "lat": "1.291"
+                "opened": 2008,
+                "firstgp": 2008,
+                "length": 5063,
+                "lon": 103.859,
+                "lat": 1.291,
+                "alt": 18
             }            
         },
         {
@@ -369,11 +408,12 @@
                 "id": "ru-2014",
                 "name": "Sochi Autodrom",
                 "location": "Sochi",
-                "opened": "2014",
-                "firstgp": "2014",
-                "length": "5848m",
-                "lon": "39.960",
-                "lat": "43.407"
+                "opened": 2014,
+                "firstgp": 2014,
+                "length": 5848,
+                "lon": 39.960,
+                "lat": 43.407,
+                "alt": 23
             }            
         },
         {
@@ -386,11 +426,12 @@
                 "id": "be-1925",
                 "name": "Circuit de Spa-Francorchamps",
                 "location": "Spa Francorchamps",
-                "opened": "1925",
-                "firstgp": "1950",
-                "length": "7004m",
-                "lon": "5.971",
-                "lat": "50.436"
+                "opened": 1925,
+                "firstgp": 1950,
+                "length": 7004,
+                "lon": 5.971,
+                "lat": 50.436,
+                "alt": 413
             }            
         },
         {
@@ -403,11 +444,12 @@
                 "id": "at-1969",
                 "name": "Red Bull Ring",
                 "location": "Spielberg",
-                "opened": "1969",
-                "firstgp": "1970",
-                "length": "4318m",
-                "lon": "14.761",
-                "lat": "47.223"
+                "opened": 1969,
+                "firstgp": 1970,
+                "length": 4318,
+                "lon": 14.761,
+                "lat": 47.223,
+                "alt": 721
             }            
         },
         {
@@ -420,11 +462,12 @@
                 "id": "jp-1962",
                 "name": "Suzuka International Racing Course",
                 "location": "Suzuka",
-                "opened": "1962",
-                "firstgp": "1987",
-                "length": "5807m",
-                "lon": "136.534",
-                "lat": "34.844"
+                "opened": 1962,
+                "firstgp": 1987,
+                "length": 5807,
+                "lon": 136.534,
+                "lat": 34.844,
+                "alt": 60
             }            
         },
         {
@@ -437,11 +480,12 @@
                 "id": "tr-2005",
                 "name": "Intercity Istanbul Park",
                 "location": "Tuzla",
-                "opened": "2005",
-                "firstgp": "2005",
-                "length": "5338m",
-                "lon": "29.412",
-                "lat": "40.958"
+                "opened": 2005,
+                "firstgp": 2005,
+                "length": 5338,
+                "lon": 29.412,
+                "lat": 40.958,
+                "alt": 150
             }
         }
     ]
