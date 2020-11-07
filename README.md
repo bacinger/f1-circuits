@@ -27,6 +27,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Portimão | Autódromo Internacional do Algarve | 2008 | 2020 | 4653m | -8.628 | 37.232 |
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | -46.698 | -23.702 |
 | Scarperia e San Piero | Autodromo Internazionale del Mugello | 1914 | 2020 | 5245m | 11.372 | 43.998 |
+| Sepang | Sepang International Circuit | 1999 | 1999 | 5543m | 101.738 | 2.761 |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m | 121.221 | 31.340 |
 | Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | 1948 | 1950 | 5891m | 52.072 | -1.017 |
 | Singapore | [Marina Bay Street Circuit](circuits/sg-2008.geojson) | 2008 | 2008 | 5063m |103.859 | 1.291 | 
@@ -39,6 +40,10 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 ## Summary
 
 Currently, the repository holds 21 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+
+## Altitude
+
+Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used, or the nearby city's altitude if the data was unavailable.
 
 ## Acknowledgment
 
