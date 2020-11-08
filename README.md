@@ -15,7 +15,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m | -25m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m | 165m |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 148m |
-| Imola | Autodromo Enzo e Dino Ferrari | 1953 | 1980 | 4909m | 47m |
+| Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
 | Le Castelle | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
