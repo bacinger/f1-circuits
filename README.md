@@ -43,7 +43,7 @@ Currently, the repository holds 21 out of [72 circuits that have hosted a Formul
 
 ## Altitude
 
-Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used, or the nearby city's altitude if the data was unavailable.
+Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used as sources, or the nearby city's altitude if no other and more accurate data were available.
 
 ## Acknowledgment
 
