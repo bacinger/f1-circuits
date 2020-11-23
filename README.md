@@ -22,7 +22,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 47m |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m | 13m |
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 142m |
-| Nürburg | Nürburgring | 1927 | 1984 | 5148m | 627m |
+| Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m | 627m |
 | Pest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
 | Portimão | Autódromo Internacional do Algarve | 2008 | 2020 | 4653m | 44m |
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
@@ -39,7 +39,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 22 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 23 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
