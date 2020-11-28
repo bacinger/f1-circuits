@@ -24,7 +24,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 142m |
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m | 627m |
 | Pest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
-| Portimão | Autódromo Internacional do Algarve | 2008 | 2020 | 4653m | 44m |
+| Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | 2008 | 2020 | 4653m | 44m |
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
 | Scarperia e San Piero | Autodromo Internazionale del Mugello | 1914 | 2020 | 5245m | 292m |
 | Sepang | Sepang International Circuit | 1999 | 1999 | 5543m | 39m |
@@ -39,7 +39,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 23 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 24 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
