@@ -26,7 +26,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Pest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
 | Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | 2008 | 2020 | 4653m | 44m |
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
-| Scarperia e San Piero | Autodromo Internazionale del Mugello | 1914 | 2020 | 5245m | 292m |
+| Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | 1914 | 2020 | 5245m | 292m |
 | Sepang | Sepang International Circuit | 1999 | 1999 | 5543m | 39m |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m | 14m |
 | Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | 1948 | 1950 | 5891m | 196m |
@@ -39,7 +39,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 24 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 25 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
