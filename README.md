@@ -35,11 +35,11 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | 1925 | 1950 | 7004m | 413m |
 | Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | 1969 | 1970 | 4318m | 721m |
 | Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | 1962 | 1987 | 5807m | 60m |
-| Tuzla | Intercity Istanbul Park | 2005 | 2005 | 5338m | 150m |
+| Tuzla | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
 
 ## Summary
 
-Currently, the repository holds 26 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 27 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
