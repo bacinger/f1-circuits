@@ -11,20 +11,20 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 |:---|:---|:---:|:---:|---:|---:|
 | Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5554m | 9m |
 | Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 2012 | 5513m | 130m |
-| Bahrain | [Bahrain International Circuit](circuits/bh-2002.geojson) | 2002 | 2004 | 5412m | -16m |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m | -25m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m | 165m |
+| Budapest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 148m |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
-| Le Castelle | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
+| Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 47m |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m | 13m |
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 142m |
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m | 627m |
-| Pest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
 | Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | 2008 | 2020 | 4653m | 44m |
+| Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | 2002 | 2004 | 5412m | -16m |
 | Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
 | Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | 1914 | 2020 | 5245m | 292m |
 | Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | 1999 | 1999 | 5543m | 39m |
