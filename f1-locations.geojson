@@ -47,7 +47,7 @@
             "properties": {
                 "id": "bh-2002",
                 "name": "Bahrain International Circuit",
-                "location": "Bahrain",
+                "location": "Sakhir",
                 "opened": 2002,
                 "firstgp": 2004,
                 "length": 5412,
@@ -137,7 +137,7 @@
             "properties": {
                 "id": "fr-1969",
                 "name": "Circuit Paul Ricard",
-                "location": "Le Castelle",
+                "location": "Le Castellet",
                 "opened": 1969,
                 "firstgp": 1971,
                 "length": 5842,
@@ -263,7 +263,7 @@
             "properties": {
                 "id": "hu-1986",
                 "name": "Hungaroring",
-                "location": "Pest",
+                "location": "Budapest",
                 "opened": 1986,
                 "firstgp": 1986,
                 "length": 4381,
