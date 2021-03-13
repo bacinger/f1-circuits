@@ -16,6 +16,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Budapest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 148m |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
+| Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
@@ -35,7 +36,6 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | 1925 | 1950 | 7004m | 413m |
 | Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | 1969 | 1970 | 4318m | 721m |
 | Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | 1962 | 1987 | 5807m | 60m |
-| Tuzla | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
 
 ## Summary
 
