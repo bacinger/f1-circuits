@@ -10,7 +10,7 @@
     {"lon": 6.943, "lat": 50.334, "zoom": 14, "location": "Nürburg", "name": "Nürburgring", "id": "de-1927"},
     {"lon": -8.628, "lat": 37.232, "zoom": 15, "location": "Portimão", "name": "Autódromo Internacional do Algarve", "id": "pt-2008"},
     {"lon": 11.713, "lat": 44.341, "zoom": 15, "location": "Imola", "name": "Autodromo Enzo e Dino Ferrari", "id": "it-1953"},
-    {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Tuzla", "name": "Intercity Istanbul Park", "id": "tr-2005"},
+    {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Istanbul", "name": "Intercity Istanbul Park", "id": "tr-2005"},
     {"lon": 50.512, "lat": 26.031, "zoom": 15, "location": "Sakhir", "name": "Bahrain International Circuit", "id": "bh-2002"},
     {"lon": 54.601, "lat": 24.471, "zoom": 14, "location": "Abu Dhabi", "name": "Yas Marina Circuit", "id": "ae-2009"}
 ]
