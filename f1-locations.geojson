@@ -42,24 +42,6 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [50.512, 26.031]
-            },
-            "properties": {
-                "id": "bh-2002",
-                "name": "Bahrain International Circuit",
-                "location": "Sakhir",
-                "opened": 2002,
-                "firstgp": 2004,
-                "length": 5412,
-                "lon": 50.512,
-                "lat": 26.031,
-                "alt": -16
-            }            
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
                 "coordinates": [49.842, 40.369]
             },
             "properties": {
@@ -96,6 +78,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [19.250, 47.583]
+            },
+            "properties": {
+                "id": "hu-1986",
+                "name": "Hungaroring",
+                "location": "Budapest",
+                "opened": 1986,
+                "firstgp": 1986,
+                "length": 4381,
+                "lon": 19.250,
+                "lat": 47.583,
+                "alt": 239
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [8.572, 49.330]
             },
             "properties": {
@@ -126,6 +126,24 @@
                 "lon": 11.713,
                 "lat": 44.341,
                 "alt": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.412, 40.958]
+            },
+            "properties": {
+                "id": "tr-2005",
+                "name": "Intercity Istanbul Park",
+                "location": "Istanbul",
+                "opened": 2005,
+                "firstgp": 2005,
+                "length": 5338,
+                "lon": 29.412,
+                "lat": 40.958,
+                "alt": 150
             }
         },
         {
@@ -258,24 +276,6 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.250, 47.583]
-            },
-            "properties": {
-                "id": "hu-1986",
-                "name": "Hungaroring",
-                "location": "Budapest",
-                "opened": 1986,
-                "firstgp": 1986,
-                "length": 4381,
-                "lon": 19.250,
-                "lat": 47.583,
-                "alt": 239
-            }            
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
                 "coordinates": [-8.628, 37.232]
             },
             "properties": {
@@ -289,6 +289,24 @@
                 "lat": 37.232,
                 "alt": 44
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.512, 26.031]
+            },
+            "properties": {
+                "id": "bh-2002",
+                "name": "Bahrain International Circuit",
+                "location": "Sakhir",
+                "opened": 2002,
+                "firstgp": 2004,
+                "length": 5412,
+                "lon": 50.512,
+                "lat": 26.031,
+                "alt": -16
+            }            
         },
         {
             "type": "Feature",
@@ -469,24 +487,6 @@
                 "lat": 34.844,
                 "alt": 60
             }            
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [29.412, 40.958]
-            },
-            "properties": {
-                "id": "tr-2005",
-                "name": "Intercity Istanbul Park",
-                "location": "Tuzla",
-                "opened": 2005,
-                "firstgp": 2005,
-                "length": 5338,
-                "lon": 29.412,
-                "lat": 40.958,
-                "alt": 150
-            }
         }
     ]
 }
