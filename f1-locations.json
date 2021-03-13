@@ -25,5 +25,6 @@
     {"lon": 39.960, "lat": 43.407, "zoom": 14, "location": "Sochi", "name": "Sochi Autodrom", "id": "ru-2014"},
     {"lon": 5.971, "lat": 50.436, "zoom": 13, "location": "Spa Francorchamps", "name": "Circuit de Spa-Francorchamps", "id": "be-1925"},
     {"lon": 14.761, "lat": 47.223, "zoom": 15, "location": "Spielberg", "name": "Red Bull Ring", "id": "at-1969"},
-    {"lon": 136.534, "lat": 34.844, "zoom": 15, "location": "Suzuka", "name": "Suzuka International Racing Course", "id": "jp-1962"}
+    {"lon": 136.534, "lat": 34.844, "zoom": 15, "location": "Suzuka", "name": "Suzuka International Racing Course", "id": "jp-1962"},
+    {"lon": 4.541, "lat": 52.389, "zoom": 15, "location": "Zandvoort", "name": "Circuit Zandvoort", "id": "nl-1948"}
 ]
