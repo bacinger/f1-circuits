@@ -168,6 +168,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [3.164, 46.863]
+            },
+            "properties": {
+                "id": "fr-1960",
+                "name": "Circuit de Nevers Magny-Cours",
+                "location": "Magny-Cours",
+                "opened": 1960,
+                "firstgp": 1991,
+                "length": 4412,
+                "lon": 3.164,
+                "lat": 46.863,
+                "alt": 230
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [144.970, -37.846]
             },
             "properties": {
@@ -486,6 +504,24 @@
                 "lon": 136.534,
                 "lat": 34.844,
                 "alt": 60
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.541, 52.389]
+            },
+            "properties": {
+                "id": "nl-1948",
+                "name": "Circuit Zandvoort",
+                "location": "Zandvoort",
+                "opened": 1948,
+                "firstgp": 1952,
+                "length": 4259,
+                "lon": 4.541,
+                "lat": 52.389,
+                "alt": 3
             }            
         }
     ]
