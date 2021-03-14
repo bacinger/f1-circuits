@@ -8,6 +8,7 @@
     {"lon": 11.713, "lat": 44.341, "zoom": 15, "location": "Imola", "name": "Autodromo Enzo e Dino Ferrari", "id": "it-1953"},
     {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Istanbul", "name": "Intercity Istanbul Park", "id": "tr-2005"},
     {"lon": 5.791, "lat": 43.253, "zoom": 14, "location": "Le Castellet", "name": "Circuit Paul Ricard", "id": "fr-1969"},
+    {"lon": 3.164, "lat": 46.863, "zoom": 14, "location": "Magny-Cours", "name": "Circuit de Nevers Magny-Cours", "id": "fr-1960"},
     {"lon": 144.970, "lat": -37.846, "zoom": 14, "location": "Melbourne", "name": "Albert Park Circuit", "id": "au-1953"},
     {"lon": -99.091, "lat": 19.402, "zoom": 15, "location": "Mexico City", "name": "Autódromo Hermanos Rodríguez", "id": "mx-1962"},
     {"lon": 7.429, "lat": 43.737, "zoom": 15, "location": "Monte Carlo", "name": "Circuit de Monaco", "id": "mc-1929"},
