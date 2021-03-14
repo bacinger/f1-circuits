@@ -17,7 +17,9 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 148m |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
+| Jeddah | Jeddah Street Circuit | 2021 | 2021 | TBD | 12m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
+| Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 47m |
@@ -36,10 +38,11 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | 1925 | 1950 | 7004m | 413m |
 | Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | 1969 | 1970 | 4318m | 721m |
 | Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | 1962 | 1987 | 5807m | 60m |
+| Zandvoort | [Circuit Zandvoort](circuits/nl-1948.geojson) | 1948 | 1952 | 4259m | 3m |
 
 ## Summary
 
-Currently, the repository holds 27 out of [72 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 29 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
@@ -57,4 +60,4 @@ Formula 1™ circuits data are not official, and they are not approved nor endor
 
 ## License
 
-[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2020 Tomislav Bacinger
+[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2021 Tomislav Bacinger
