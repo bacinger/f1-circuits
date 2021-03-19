@@ -96,6 +96,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [-9.394, 38.751]
+            },
+            "properties": {
+                "id": "pt-1972",
+                "name": "Autódromo do Estoril",
+                "location": "Estoril",
+                "opened": 1972,
+                "firstgp": 1984,
+                "length": 4349,
+                "lon": -9.394,
+                "lat": 38.751,
+                "alt": 80
+            }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [8.572, 49.330]
             },
             "properties": {
@@ -144,6 +162,24 @@
                 "lon": 29.412,
                 "lat": 40.958,
                 "alt": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-43.395, -22.976]
+            },
+            "properties": {
+                "id": "br-1977",
+                "name": "Autódromo Internacional Nelson Piquet",
+                "location": "Jacarepaguá",
+                "opened": 1977,
+                "firstgp": 1978,
+                "length": 5031,
+                "lon": -43.395,
+                "lat": -22.976,
+                "alt": 3
             }
         },
         {
