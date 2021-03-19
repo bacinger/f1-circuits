@@ -14,9 +14,11 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m | -25m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m | 165m |
 | Budapest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
+| Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | 1972 | 1984 | 4349m | 80m |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | 1932 | 1970 | 4574m | 148m |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
+| Jacarepaguá | ~~Autódromo Internacional Nelson Piquet~~ | 1977 | 1978 | 5031m | 3m |
 | Jeddah | Jeddah Street Circuit | 2021 | 2021 | TBD | 12m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
@@ -42,7 +44,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 29 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 30 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
