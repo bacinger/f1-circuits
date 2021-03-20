@@ -19,7 +19,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m | 47m |
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m | 150m |
 | Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | 1977 | 1978 | 5031m | 3m |
-| Jeddah | Jeddah Street Circuit | 2021 | 2021 | TBD | 12m |
+| Jeddah | [Jeddah Street Circuit](circuits/sa-2021.geojson) | 2021 | 2021 | 6175m | 12m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
@@ -44,7 +44,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 31 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 32 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
