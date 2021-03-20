@@ -186,6 +186,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [39.104, 21.632]
+            },
+            "properties": {
+                "id": "sa-2021",
+                "name": "Jeddah Street Circuit",
+                "location": "Jeddah",
+                "opened": 2021,
+                "firstgp": 2021,
+                "length": 6175,
+                "lon": 39.104,
+                "lat": 21.632,
+                "alt": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [5.791, 43.253]
             },
             "properties": {
