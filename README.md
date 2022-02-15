@@ -24,6 +24,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
+| Mmiami | [Miami International Autodrome](circuits/mi-2022.geojson) | 2022 | 2022 | 5410m | 1m |
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 47m |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m | 13m |
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 142m |
@@ -44,7 +45,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 32 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 33 out of [74 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
