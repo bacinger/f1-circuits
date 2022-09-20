@@ -279,12 +279,12 @@
                 "coordinates": [-80.239, 25.958]
             },
             "properties": {
-                "id": "mi-2022",
+                "id": "us-2022",
                 "name": "Miami International Autodrome",
                 "location": "Miami",
                 "opened": 2022,
                 "firstgp": 2022,
-                "length": 5410,
+                "length": 5412,
                 "lon": -80.239,
                 "lat": 25.958,
                 "alt": 1
