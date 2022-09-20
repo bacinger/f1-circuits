@@ -31,7 +31,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m | 627m |
 | Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | 2008 | 2020 | 4653m | 44m |
 | Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | 2002 | 2004 | 5412m | -16m |
-| Sao Paulo | [Autódromo José Carlos Pace](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
+| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | 1940 | 1972 | 4309m | 765m |
 | Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | 1914 | 2020 | 5245m | 292m |
 | Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | 1999 | 1999 | 5543m | 39m |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m | 14m |
@@ -49,7 +49,7 @@ Currently, the repository holds 33 out of [76 circuits that have hosted a Formul
 
 ## Altitude
 
-Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used as sources, or the nearby city's altitude if no other and more accurate data were available.
+Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used as sources, or the nearby city's altitude, if no other and more accurate data were available.
 
 ## Acknowledgment
 
@@ -63,4 +63,4 @@ Formula 1™ circuits data are not official, and they are not approved nor endor
 
 ## License
 
-[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2021 Tomislav Bacinger
+[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2022 Tomislav Bacinger
