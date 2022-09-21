@@ -10,7 +10,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Location | Name | Opened | First GP | Length | Altitude |
 |:---|:---|:---:|:---:|---:|---:|
 | Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5554m | 9m |
-| Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 2012 | 5513m | 130m |
+| Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 2012 | 5514m | 130m |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m | -25m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m | 165m |
 | Budapest | [Hungaroring](circuits/hu-1986.geojson) | 1986 | 1986 | 4381m | 239m |
@@ -24,7 +24,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
-| Miami | [Miami International Autodrome](circuits/us-2022.geojson) | 2022 | 2022 | 5410m | 1m |
+| Miami | [Miami International Autodrome](circuits/us-2022.geojson) | 2022 | 2022 | 5412m | 1m |
 | Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m | 47m |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m | 13m |
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m | 142m |
