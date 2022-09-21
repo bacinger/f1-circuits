@@ -222,6 +222,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [51.454, 25.49]
+            },
+            "properties": {
+                "id": "qa-2004",
+                "name": "Losail International Circuit",
+                "location": "Lusail",
+                "opened": 2004,
+                "firstgp": 2021,
+                "length": 5380,
+                "lon": 51.454,
+                "lat": 25.49,
+                "alt": 5
+            }            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [3.164, 46.863]
             },
             "properties": {
