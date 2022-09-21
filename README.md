@@ -21,6 +21,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | 1977 | 1978 | 5031m | 3m |
 | Jeddah | [Jeddah Street Circuit](circuits/sa-2021.geojson) | 2021 | 2021 | 6175m | 12m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m | 408m |
+| Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | 2004 | 2021 | 5380m | 5m |
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | 1960 | 1991 | 4412m | 230m |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5027m | 10m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m | 2232m |
@@ -45,7 +46,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 ## Summary
 
-Currently, the repository holds 33 out of [76 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
+Currently, the repository holds 34 out of [76 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
 
 ## Altitude
 
