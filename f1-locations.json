@@ -21,7 +21,7 @@
     {"lon": 6.943, "lat": 50.334, "zoom": 14, "location": "Nürburg", "name": "Nürburgring", "id": "de-1927"},
     {"lon": -8.628, "lat": 37.232, "zoom": 15, "location": "Portimão", "name": "Autódromo Internacional do Algarve", "id": "pt-2008"},
     {"lon": 50.512, "lat": 26.031, "zoom": 15, "location": "Sakhir", "name": "Bahrain International Circuit", "id": "bh-2002"},
-    {"lon": -46.698, "lat": -23.702, "zoom": 15, "location": "Sao Paulo", "name": "Autódromo José Carlos Pace", "id": "br-1940"},
+    {"lon": -46.698, "lat": -23.702, "zoom": 15, "location": "Sao Paulo", "name": "Autódromo José Carlos Pace - Interlagos", "id": "br-1940"},
     {"lon": 11.372, "lat": 43.998, "zoom": 15, "location": "Scarperia e San Piero", "name": "Autodromo Internazionale del Mugello", "id": "it-1914"},
     {"lon": 101.738, "lat": 2.761, "zoom": 15, "location": "Sepang", "name": "Sepang International Circuit", "id": "my-1999"},
     {"lon": 121.221, "lat": 31.340, "zoom": 14, "location": "Shanghai", "name": "Shanghai International Circuit", "id": "cn-2004"},
