@@ -12,7 +12,7 @@
     {"lon": 39.104, "lat": 21.632, "zoom": 14, "location": "Jeddah", "name": "Jeddah Street Circuit", "id": "sa-2021"},
     {"lon": -115.168, "lat": 36.116, "zoom": 14, "location": "Las Vegas", "name": "Las Vegas Street Circuit", "id": "us-2023"},
     {"lon": 5.791, "lat": 43.253, "zoom": 14, "location": "Le Castellet", "name": "Circuit Paul Ricard", "id": "fr-1969"},
-    {"lon": 51.454, "lat": 25.49, "zoom": 14, "location": "Lusail", "name": "Losail International Circuit", "id": "qa-2004"},
+    {"lon": 51.454, "lat": 25.49, "zoom": 15, "location": "Lusail", "name": "Losail International Circuit", "id": "qa-2004"},
     {"lon": 3.164, "lat": 46.863, "zoom": 15, "location": "Magny-Cours", "name": "Circuit de Nevers Magny-Cours", "id": "fr-1960"},
     {"lon": 144.970, "lat": -37.846, "zoom": 14, "location": "Melbourne", "name": "Albert Park Circuit", "id": "au-1953"},
     {"lon": -99.091, "lat": 19.402, "zoom": 15, "location": "Mexico City", "name": "Autódromo Hermanos Rodríguez", "id": "mx-1962"},
