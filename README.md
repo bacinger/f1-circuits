@@ -19,7 +19,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | 1953 | 1980 | 4909m |
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | 2005 | 2005 | 5338m |
 | Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | 1977 | 1978 | 5031m |
-| Jeddah | [Jeddah Street Circuit](circuits/sa-2021.geojson) | 2021 | 2021 | 6175m |
+| Jeddah | [Jeddah Corniche Circuit](circuits/sa-2021.geojson) | 2021 | 2021 | 6175m |
 | Las Vegas | [Las Vegas Street Circuit](circuits/us-2023.geojson) | 2023 | 2023 |  6116m |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | 1969 | 1971 | 5842m |
 | Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | 2004 | 2021 | 5380m |
