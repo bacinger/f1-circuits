@@ -18,6 +18,6 @@
     {"lon": -99.091, "lat": 19.402, "zoom": 15, "location": "Mexico City", "name": "Autódromo Hermanos Rodríguez", "id": "mx-1962"},
     {"lon": -46.698, "lat": -23.702, "zoom": 15, "location": "Sao Paulo", "name": "Autódromo José Carlos Pace - Interlagos", "id": "br-1940"},
     {"lon": 51.454, "lat": 25.49, "zoom": 14, "location": "Lusail", "name": "Losail International Circuit", "id": "qa-2004"},
-    {"lon": 39.104, "lat": 21.632, "zoom": 14, "location": "Jeddah", "name": "Jeddah Street Circuit", "id": "sa-2021"},
+    {"lon": 39.104, "lat": 21.632, "zoom": 14, "location": "Jeddah", "name": "Jeddah Corniche Circuit", "id": "sa-2021"},
     {"lon": 54.601, "lat": 24.471, "zoom": 14, "location": "Abu Dhabi", "name": "Yas Marina Circuit", "id": "ae-2009"}
 ]
