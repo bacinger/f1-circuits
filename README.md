@@ -33,7 +33,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m |
 | Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | 2008 | 2020 | 4653m |
 | Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | 2002 | 2004 | 5412m |
-| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | 1940 | 1972 | 4309m |
+| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | 1940 | 1973 | 4309m |
 | Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | 1914 | 2020 | 5245m |
 | Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | 1999 | 1999 | 5543m |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | 2004 | 2004 | 5451m |
