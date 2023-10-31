@@ -9,7 +9,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 | Location | Name | Opened | First GP | Length |
 |:---|:---|:---:|:---:|---:|
-| Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5554m |
+| Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5281m |
 | Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 2012 | 5514m |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m |
