@@ -1,5 +1,4 @@
 [
-    {"lon": 54.601, "lat": 24.471, "zoom": 14, "location": "Abu Dhabi", "name": "Yas Marina Circuit", "id": "ae-2009"},
     {"lon": -97.633, "lat": 30.135, "zoom": 15, "location": "Austin", "name": "Circuit of the Americas", "id": "us-2012"},
     {"lon": 49.842, "lat": 40.369, "zoom": 14, "location": "Baku", "name": "Baku City Circuit", "id": "az-2016"},
     {"lon": 2.259, "lat": 41.569, "zoom": 14, "location": "Barcelona", "name": "Circuit de Barcelona-Catalunya", "id": "es-1991"},
@@ -17,7 +16,7 @@
     {"lon": 144.970, "lat": -37.846, "zoom": 14, "location": "Melbourne", "name": "Albert Park Circuit", "id": "au-1953"},
     {"lon": -99.091, "lat": 19.402, "zoom": 15, "location": "Mexico City", "name": "Autódromo Hermanos Rodríguez", "id": "mx-1962"},
     {"lon": -80.239, "lat": 25.958, "zoom": 15, "location": "Miami", "name": "Miami International Autodrome", "id": "us-2022"},
-    {"lon": 7.429, "lat": 43.737, "zoom": 15, "location": "Monte Carlo", "name": "Circuit de Monaco", "id": "mc-1929"},
+    {"lon": 7.429, "lat": 43.737, "zoom": 15, "location": "Monaco", "name": "Circuit de Monaco", "id": "mc-1929"},
     {"lon": -73.525, "lat": 45.506, "zoom": 14, "location": "Montreal", "name": "Circuit Gilles-Villeneuve", "id": "ca-1978"},
     {"lon": 9.290, "lat": 45.621, "zoom": 13, "location": "Monza", "name": "Autodromo Nazionale Monza", "id": "it-1922"},
     {"lon": 6.943, "lat": 50.334, "zoom": 14, "location": "Nürburg", "name": "Nürburgring", "id": "de-1927"},
@@ -33,5 +32,6 @@
     {"lon": 5.971, "lat": 50.436, "zoom": 13, "location": "Spa Francorchamps", "name": "Circuit de Spa-Francorchamps", "id": "be-1925"},
     {"lon": 14.761, "lat": 47.223, "zoom": 15, "location": "Spielberg", "name": "Red Bull Ring", "id": "at-1969"},
     {"lon": 136.534, "lat": 34.844, "zoom": 15, "location": "Suzuka", "name": "Suzuka International Racing Course", "id": "jp-1962"},
+    {"lon": 54.601, "lat": 24.471, "zoom": 14, "location": "Yas Marina", "name": "Yas Marina Circuit", "id": "ae-2009"},
     {"lon": 4.541, "lat": 52.389, "zoom": 15, "location": "Zandvoort", "name": "Circuit Zandvoort", "id": "nl-1948"}
 ]
