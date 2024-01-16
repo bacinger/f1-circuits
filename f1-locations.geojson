@@ -11,7 +11,7 @@
             "properties": {
                 "id": "ae-2009",
                 "name": "Yas Marina Circuit",
-                "location": "Abu Dhabi",
+                "location": "Yas Marina",
                 "opened": 2009,
                 "firstgp": 2009,
                 "length": 5281,
@@ -335,7 +335,7 @@
             "properties": {
                 "id": "mc-1929",
                 "name": "Circuit de Monaco",
-                "location": "Monte Carlo",
+                "location": "Monaco",
                 "opened": 1929,
                 "firstgp": 1929,
                 "length": 3337,
