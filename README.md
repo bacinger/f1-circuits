@@ -9,7 +9,6 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 | Location | Name | Opened | First GP | Length |
 |:---|:---|:---:|:---:|---:|
-| Abu Dhabi | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5281m |
 | Austin | [Circuit of the Americas](circuits/us-2012.geojson) | 2012 | 2012 | 5514m |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | 2016 | 2016 | 6003m |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | 1991 | 1991 | 4655m |
@@ -27,7 +26,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | 1953 | 1996 | 5278m |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | 1962 | 1963 | 4304m |
 | Miami | [Miami International Autodrome](circuits/us-2022.geojson) | 2022 | 2022 | 5412m |
-| Monte Carlo | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m |
+| Monaco | [Circuit de Monaco](circuits/mc-1929.geojson) | 1929 | 1929 | 3337m |
 | Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | 1978 | 1978 | 4361m |
 | Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | 1922 | 1950 | 5793m |
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | 1927 | 1984 | 5148m |
@@ -43,6 +42,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | 1925 | 1950 | 7004m |
 | Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | 1969 | 1970 | 4318m |
 | Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | 1962 | 1987 | 5807m |
+| Yas Marina | [Yas Marina Circuit](circuits/ae-2009.geojson) | 2009 | 2009 | 5281m |
 | Zandvoort | [Circuit Zandvoort](circuits/nl-1948.geojson) | 1948 | 1952 | 4259m |
 
 ## Summary
