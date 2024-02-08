@@ -8,7 +8,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 * [List of F1™ circuits in JSON format](f1-locations.json)
 
 | Location | Name | Grand Prix | Opened |
-|:---|:---|:---:|:---:|---:|
+|:---|:---|:---|---:|
 | Austin | [Circuit of the Americas](circuits/us-2012.geojson) | United States Grand Prix | 2012 |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | Azerbaijan Grand Prix | 2016 |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | Spanish Grand Prix | 1991 |
