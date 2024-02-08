@@ -7,43 +7,43 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 * [Points of F1™ circuits in GeoJSON format](f1-locations.geojson)
 * [List of F1™ circuits in JSON format](f1-locations.json)
 
-| Location | Name | Grand Prix | Opened |
-|:---|:---|:---|---:|
-| Austin | [Circuit of the Americas](circuits/us-2012.geojson) | United States Grand Prix | 2012 |
-| Baku | [Baku City Circuit](circuits/az-2016.geojson) | Azerbaijan Grand Prix | 2016 |
-| Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | Spanish Grand Prix | 1991 |
-| Budapest | [Hungaroring](circuits/hu-1986.geojson) | Hungarian Grand Prix | 1986 |
-| Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | Portuguese Grand Prix | 1972 |
-| Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | German Grand Prix | 1932 |
-| Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | San Marino / Emilia Romagna Grand Prix | 1953 |
-| Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | Turkish Grand Prix | 2005 |
-| Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | Brazilian Grand Prix | 1977 |
-| Jeddah | [Jeddah Corniche Circuit](circuits/sa-2021.geojson) | Saudi Arabian Grand Prix | 2021 |
-| Las Vegas | [Las Vegas Street Circuit](circuits/us-2023.geojson) | Las Vegas Grand Prix | 2023 |
-| Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | French Grand Prix | 1969 |
-| Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | Qatar Grand Prix | 2004 |
-| Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | French Grand Prix | 1960 |
-| Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | Australian Grand Prix | 1953 |
-| Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | Mexican Grand Prix | 1962 |
-| Miami | [Miami International Autodrome](circuits/us-2022.geojson) | Miami Grand Prix | 2022 |
-| Monaco | [Circuit de Monaco](circuits/mc-1929.geojson) | Monaco Grand Prix | 1929 |
-| Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | Canadian Grand Prix | 1978 |
-| Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | Italian Grand Prix | 1922 |
-| Nürburg | [Nürburgring](circuits/de-1927.geojson) | German Grand Prix | 1927 |
-| Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | Portuguese Grand Prix | 2008 |
-| Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | Bahrain Grand Prix | 2002 |
-| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | Brazilian Grand Prix | 1940 |
-| Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | Tuscan Grand Prix | 1914 |
-| Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | Malaysian Grand Prix | 1999 |
-| Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | Chinese Grand Prix | 2004 |
-| Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | British Grand Prix | 1948 |
-| Singapore | [Marina Bay Street Circuit](circuits/sg-2008.geojson) | Singapore Grand Prix | 2008 |
-| Sochi | [Sochi Autodrom](circuits/ru-2014.geojson) | Russian Grand Prix | 2014 |
-| Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | Belgian Grand Prix | 1925 |
-| Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | Austrian Grand Prix | 1969 |
-| Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | Japanese Grand Prix | 1962 |
-| Yas Marina | [Yas Marina Circuit](circuits/ae-2009.geojson) | Abu Dhabi Grand Prix | 2009 |
-| Zandvoort | [Circuit Zandvoort](circuits/nl-1948.geojson) | Dutch Grand Prix | 1948 |
+| Location | Name | Grand Prix |
+|:---|:---|:---|
+| Austin | [Circuit of the Americas](circuits/us-2012.geojson) | United States Grand Prix |
+| Baku | [Baku City Circuit](circuits/az-2016.geojson) | Azerbaijan Grand Prix |
+| Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | Spanish Grand Prix |
+| Budapest | [Hungaroring](circuits/hu-1986.geojson) | Hungarian Grand Prix |
+| Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | Portuguese Grand Prix |
+| Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | German Grand Prix |
+| Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | San Marino / Emilia Romagna Grand Prix |
+| Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | Turkish Grand Prix |
+| Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | Brazilian Grand Prix |
+| Jeddah | [Jeddah Corniche Circuit](circuits/sa-2021.geojson) | Saudi Arabian Grand Prix |
+| Las Vegas | [Las Vegas Street Circuit](circuits/us-2023.geojson) | Las Vegas Grand Prix |
+| Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | French Grand Prix |
+| Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | Qatar Grand Prix |
+| Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | French Grand Prix |
+| Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | Australian Grand Prix |
+| Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | Mexican Grand Prix |
+| Miami | [Miami International Autodrome](circuits/us-2022.geojson) | Miami Grand Prix |
+| Monaco | [Circuit de Monaco](circuits/mc-1929.geojson) | Monaco Grand Prix |
+| Montreal | [Circuit Gilles-Villeneuve](circuits/ca-1978.geojson) | Canadian Grand Prix |
+| Monza | [Autodromo Nazionale Monza](circuits/it-1922.geojson) | Italian Grand Prix |
+| Nürburg | [Nürburgring](circuits/de-1927.geojson) | German Grand Prix |
+| Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | Portuguese Grand Prix |
+| Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | Bahrain Grand Prix |
+| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | Brazilian Grand Prix |
+| Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | Tuscan Grand Prix |
+| Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | Malaysian Grand Prix |
+| Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | Chinese Grand Prix |
+| Silverstone | [Silverstone Circuit](circuits/gb-1948.geojson) | British Grand Prix |
+| Singapore | [Marina Bay Street Circuit](circuits/sg-2008.geojson) | Singapore Grand Prix |
+| Sochi | [Sochi Autodrom](circuits/ru-2014.geojson) | Russian Grand Prix |
+| Spa Francorchamps | [Circuit de Spa-Francorchamps](circuits/be-1925.geojson) | Belgian Grand Prix |
+| Spielberg | [Red Bull Ring](circuits/at-1969.geojson) | Austrian Grand Prix |
+| Suzuka | [Suzuka International Racing Course](circuits/jp-1962.geojson) | Japanese Grand Prix |
+| Yas Marina | [Yas Marina Circuit](circuits/ae-2009.geojson) | Abu Dhabi Grand Prix |
+| Zandvoort | [Circuit Zandvoort](circuits/nl-1948.geojson) | Dutch Grand Prix |
 
 ## Summary
 
