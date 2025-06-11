@@ -2,24 +2,7 @@
     "type": "FeatureCollection",
     "name": "f1-locations",
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [54.601, 24.471]
-            },
-            "properties": {
-                "id": "ae-2009",
-                "name": "Yas Marina Circuit",
-                "location": "Yas Marina",
-                "opened": 2009,
-                "firstgp": 2009,
-                "length": 5281,
-                "lon": 54.601,
-                "lat": 24.471,
-                "alt": 9
-            }
-        },
+        
         {
             "type": "Feature",
             "geometry": {
@@ -217,7 +200,7 @@
                 "lat": 36.116,
                 "alt": 610
             }
-        },        
+        },
         {
             "type": "Feature",
             "geometry": {
@@ -253,7 +236,25 @@
                 "lat": 25.49,
                 "alt": 5
             }            
-        },        
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.620, 40.471]
+            },
+            "properties": {
+                "id": "es-2026",
+                "name": "Circuito de Madring",
+                "location": "Madrid",
+                "opened": 2026,
+                "firstgp": 2026,
+                "length": 5474,
+                "lon": -3.620,
+                "lat": 40.471,
+                "alt": 646
+            }            
+        },
         {
             "type": "Feature",
             "geometry": {
@@ -613,6 +614,24 @@
                 "lat": 34.844,
                 "alt": 60
             }            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [54.601, 24.471]
+            },
+            "properties": {
+                "id": "ae-2009",
+                "name": "Yas Marina Circuit",
+                "location": "Yas Marina",
+                "opened": 2009,
+                "firstgp": 2009,
+                "length": 5281,
+                "lon": 54.601,
+                "lat": 24.471,
+                "alt": 9
+            }
         },
         {
             "type": "Feature",
