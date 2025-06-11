@@ -22,6 +22,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Las Vegas | [Las Vegas Street Circuit](circuits/us-2023.geojson) | Las Vegas Grand Prix |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | French Grand Prix |
 | Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | Qatar Grand Prix |
+| Madrid | [Circuito de Madring](circuits/es-2026.geojson) | Madrid Grand Prix |
 | Magny-Cours | [Circuit de Nevers Magny-Cours](circuits/fr-1960.geojson) | French Grand Prix |
 | Melbourne | [Albert Park Circuit](circuits/au-1953.geojson) | Australian Grand Prix |
 | Mexico City | [Autódromo Hermanos Rodríguez](circuits/mx-1962.geojson) | Mexican Grand Prix |
