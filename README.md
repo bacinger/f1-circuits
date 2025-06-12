@@ -46,17 +46,14 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Yas Marina | [Yas Marina Circuit](circuits/ae-2009.geojson) | Abu Dhabi Grand Prix |
 | Zandvoort | [Circuit Zandvoort](circuits/nl-1948.geojson) | Dutch Grand Prix |
 
-## Summary
-
-Currently, the repository holds 36 out of [78 circuits that have hosted a Formula 1™ Grand Prix](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits).
-
-## Altitude
-
-Altitude data was mostly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used as sources, or the nearby city's altitude, if no other and more accurate data were available.
-
 ## Acknowledgment
 
 * [Initial circuits data source](https://www.google.com/maps/d/u/0/viewer?mid=1nv6ugq4H67CSzKUauW92-pPstYw&ll=-37.84579005412956%2C144.96881158570557&z=16)
+* [List of Formula One circuits - Wikipedia](https://en.wikipedia.org/wiki/List_of_Formula_One_circuits)
+
+## Altitude data
+
+Altitude data was mainly collected from the [Highs and lows - which F1 track has the most elevation changes?](https://www.formula1.com/en/latest/features/2016/10/highs-and-lows---which-f1-track-has-the-most-elevation-changes-.html) article and reference the start/finish point. For other tracks, official websites and wiki pages were used as sources, or the nearby city's altitude was used if no more accurate data were available.
 
 ## Disclaimer
 
@@ -66,4 +63,4 @@ Formula 1™ circuits data are not official, and they are not approved nor endor
 
 ## License
 
-[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2024 Tomislav Bacinger
+[The MIT License (MIT)](LICENSE.md) - Copyright (c) 2019-2025 Tomislav Bacinger
