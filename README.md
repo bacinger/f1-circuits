@@ -16,6 +16,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | Portuguese Grand Prix |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | German Grand Prix |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | San Marino / Emilia Romagna Grand Prix |
+| Indianapolis | [Indianapolis Motor Speedway](circuits/us-1909.geojson) | United States Grand Prix |
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | Turkish Grand Prix |
 | Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | Brazilian Grand Prix |
 | Jeddah | [Jeddah Corniche Circuit](circuits/sa-2021.geojson) | Saudi Arabian Grand Prix |
