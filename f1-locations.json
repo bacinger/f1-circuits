@@ -6,7 +6,7 @@
     {"lon": -9.394, "lat": 38.751, "zoom": 14, "location": "Estoril", "name": "Autódromo do Estoril", "id": "pt-1972"},
     {"lon": 8.572, "lat": 49.330, "zoom": 14, "location": "Hockenheim", "name": "Hockenheimring", "id": "de-1932"},
     {"lon": 11.713, "lat": 44.341, "zoom": 15, "location": "Imola", "name": "Autodromo Enzo e Dino Ferrari", "id": "it-1953"},
-    {"lon": -86.236, "lat": 39.795, "zoom": 14, "location": "Indianapolis", "name": "Indianapolis Motor Speedway", "id": "us-1909"},
+    {"lon": -86.236, "lat": 39.795, "zoom": 15, "location": "Indianapolis", "name": "Indianapolis Motor Speedway", "id": "us-1909"},
     {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Istanbul", "name": "Intercity Istanbul Park", "id": "tr-2005"},
     {"lon": -43.395, "lat": -22.976, "zoom": 15, "location": "Jacarepaguá", "name": "Autódromo Internacional Nelson Piquet", "id": "br-1977"},
     {"lon": 39.104, "lat": 21.632, "zoom": 14, "location": "Jeddah", "name": "Jeddah Corniche Circuit", "id": "sa-2021"},
