@@ -61,6 +61,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [-58.459, -34.694]
+            },
+            "properties": {
+                "id": "ar-1952",
+                "name": "Autódromo Oscar y Juan Gálvez",
+                "location": "Buenos Aires",
+                "opened": 1952,
+                "firstgp": 1953,
+                "length": 4322,
+                "lon": -58.459,
+                "lat": -34.694,
+                "alt": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [19.250, 47.583]
             },
             "properties": {
