@@ -12,6 +12,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Austin | [Circuit of the Americas](circuits/us-2012.geojson) | United States Grand Prix |
 | Baku | [Baku City Circuit](circuits/az-2016.geojson) | Azerbaijan Grand Prix |
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | Spanish Grand Prix |
+| Buenos Aires | [Autódromo Oscar y Juan Gálvez](circuits/ar-1952.geojson) | Argentine Grand Prix |
 | Budapest | [Hungaroring](circuits/hu-1986.geojson) | Hungarian Grand Prix |
 | Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | Portuguese Grand Prix |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | German Grand Prix |
