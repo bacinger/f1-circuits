@@ -223,6 +223,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [28.069, -25.998]
+            },
+            "properties": {
+                "id": "za-1961",
+                "name": "Kyalami Grand Prix Circuit",
+                "location": "Johannesburg",
+                "opened": 1961,
+                "firstgp": 1967,
+                "length": 4529,
+                "lon": 28.069,
+                "lat": -25.998,
+                "alt": 1753
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-115.168, 36.116]
             },
             "properties": {
