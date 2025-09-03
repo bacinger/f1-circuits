@@ -21,6 +21,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Istanbul | [Intercity Istanbul Park](circuits/tr-2005.geojson) | Turkish Grand Prix |
 | Jacarepaguá | [Autódromo Internacional Nelson Piquet](circuits/br-1977.geojson) | Brazilian Grand Prix |
 | Jeddah | [Jeddah Corniche Circuit](circuits/sa-2021.geojson) | Saudi Arabian Grand Prix |
+| Johannesburg | [Kyalami Grand Prix Circuit](circuits/za-1961.geojson) | South African Grand Prix |
 | Las Vegas | [Las Vegas Street Circuit](circuits/us-2023.geojson) | Las Vegas Grand Prix |
 | Le Castellet | [Circuit Paul Ricard](circuits/fr-1969.geojson) | French Grand Prix |
 | Lusail | [Losail International Circuit](circuits/qa-2004.geojson) | Qatar Grand Prix |
