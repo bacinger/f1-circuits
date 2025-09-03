@@ -11,6 +11,7 @@
     {"lon": 29.412, "lat": 40.958, "zoom": 15, "location": "Istanbul", "name": "Intercity Istanbul Park", "id": "tr-2005"},
     {"lon": -43.395, "lat": -22.976, "zoom": 15, "location": "Jacarepaguá", "name": "Autódromo Internacional Nelson Piquet", "id": "br-1977"},
     {"lon": 39.104, "lat": 21.632, "zoom": 14, "location": "Jeddah", "name": "Jeddah Corniche Circuit", "id": "sa-2021"},
+    {"lon": 28.069, "lat": -25.998, "zoom": 15, "location": "Johannesburg", "name": "Kyalami Grand Prix Circuit", "id": "za-1961"},
     {"lon": -115.168, "lat": 36.116, "zoom": 14, "location": "Las Vegas", "name": "Las Vegas Street Circuit", "id": "us-2023"},
     {"lon": 5.791, "lat": 43.253, "zoom": 14, "location": "Le Castellet", "name": "Circuit Paul Ricard", "id": "fr-1969"},
     {"lon": 51.454, "lat": 25.49, "zoom": 15, "location": "Lusail", "name": "Losail International Circuit", "id": "qa-2004"},
