@@ -14,6 +14,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Barcelona | [Circuit de Barcelona-Catalunya](circuits/es-1991.geojson) | Spanish Grand Prix |
 | Buenos Aires | [Autódromo Oscar y Juan Gálvez](circuits/ar-1952.geojson) | Argentine Grand Prix |
 | Budapest | [Hungaroring](circuits/hu-1986.geojson) | Hungarian Grand Prix |
+| Dix | [Watkins Glen International](circuits/us-1956.geojson) | United States Grand Prix |
 | Estoril | [Autódromo do Estoril](circuits/pt-1972.geojson) | Portuguese Grand Prix |
 | Hockenheim | [Hockenheimring](circuits/de-1932.geojson) | German Grand Prix |
 | Imola | [Autodromo Enzo e Dino Ferrari](circuits/it-1953.geojson) | San Marino / Emilia Romagna Grand Prix |
