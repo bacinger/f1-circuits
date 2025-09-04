@@ -97,6 +97,24 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
+                "coordinates": [-76.927, 42.337]
+            },
+            "properties": {
+                "id": "us-1956",
+                "name": "Watkins Glen International",
+                "location": "Dix",
+                "opened": 1956,
+                "firstgp": 1961,
+                "length": 5430,
+                "lon": -76.927,
+                "lat": 42.337,
+                "alt": 331
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
                 "coordinates": [-9.394, 38.751]
             },
             "properties": {
