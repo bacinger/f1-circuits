@@ -37,7 +37,7 @@ A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 | Nürburg | [Nürburgring](circuits/de-1927.geojson) | German Grand Prix |
 | Portimão | [Autódromo Internacional do Algarve](circuits/pt-2008.geojson) | Portuguese Grand Prix |
 | Sakhir | [Bahrain International Circuit](circuits/bh-2002.geojson) | Bahrain Grand Prix |
-| Sao Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | Brazilian Grand Prix |
+| São Paulo | [Autódromo José Carlos Pace - Interlagos](circuits/br-1940.geojson) | Brazilian Grand Prix |
 | Scarperia e San Piero | [Autodromo Internazionale del Mugello](circuits/it-1914.geojson) | Tuscan Grand Prix |
 | Sepang | [Sepang International Circuit](circuits/my-1999.geojson) | Malaysian Grand Prix |
 | Shanghai | [Shanghai International Circuit](circuits/cn-2004.geojson) | Chinese Grand Prix |
