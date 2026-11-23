@@ -3,7 +3,7 @@
 A repository of Formula 1™ circuits in [GeoJSON](http://geojson.org/) format.
 
 * [Formula 1™ circuit tracks data in one GeoJSON file](f1-circuits.geojson)
-* [Interactive Map of Formula 1™ circuit tracks](https://svemir.co/f1/)
+* [Interactive Map of Formula 1™ circuit tracks](https://f1.svemir.co/)
 * [Points of F1™ circuits in GeoJSON format](f1-locations.geojson)
 * [List of F1™ circuits in JSON format](f1-locations.json)
 
